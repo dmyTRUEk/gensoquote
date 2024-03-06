@@ -1,0 +1,319 @@
+src: https://en.touhouwiki.net/wiki/Characters
+
+Unknown
+
+// Protagonists
+Reimu Hakurei
+Marisa Kirisame
+
+//
+// PC-98
+//
+
+// Highly Responsive to Prayers
+SinGyoku
+YuugenMagan
+Elis
+Sariel
+Mima
+Kikuri
+Konngara
+
+// the Story of Eastern Wonderland
+Genjii
+Rika
+Noroiko
+Meira
+Two Red Dots
+Blood-Vessel Yin-Yang Orbs
+Five Magic Stones
+Matenshi
+Evil Eye Σ
+
+// Phantasmagoria of Dim.Dream
+Ellen
+Kotohime
+Kana Anaberal
+Rikako Asakura
+Chiyuri Kitashirakawa
+Yumemi Okazaki
+//Sokrates
+//Ruukoto
+//Multi
+//Mimi-Chan
+
+// Mystic Square
+Wheel Demon
+Sara
+Spirit Mirror
+Louise
+Alice Margatroid
+Yuki
+Mai
+Ayana
+Yumeko
+Shinki
+Trump King
+//Unnamed cat on cover
+//Unnamed Makai residents in Reimu's Ending
+
+//
+// Windows 1st Generation
+//
+
+// Embodiment of Scarlet Devil
+Rumia
+Daiyousei
+Cirno
+Hong Meiling
+Koakuma
+Patchouli Knowledge
+Sakuya Izayoi
+Remilia Scarlet
+Flandre Scarlet
+//Rin Satsuki
+
+// Perfect Cherry Blossom
+Letty Whiterock
+Chen
+Lily White
+Prismriver Sisters
+//Lyrica Prismriver
+//Lunasa Prismriver
+//Merlin Prismriver
+Youmu Konpaku
+Yuyuko Saigyouji
+Ran Yakumo
+Yukari Yakumo
+//Shanghai Doll
+//Hourai Doll
+//Layla Prismriver
+//Youki Konpaku
+//Saigyou Ayakashi
+
+// Immaterial and Missing Power
+Suika Ibuki
+
+// Imperishable Night
+Wriggle Nightbug
+Mystia Lorelei
+Keine Kamishirasawa
+Tewi Inaba
+Reisen Udongein Inaba
+Eirin Yagokoro
+Kaguya Houraisan
+Fujiwara no Mokou
+
+// Phantasmagoria of Flower View
+Aya Shameimaru
+Medicine Melancholy
+Komachi Onozuka
+Eiki Shiki Yamaxanadu
+
+//
+// Windows 2nd Generation
+//
+
+// Mountain of Faith
+Shizuha Aki
+Minoriko Aki
+Hina Kagiyama
+Nitori Kawashiro
+Momiji Inubashiri
+Sanae Kochiya
+Kanako Yasaka
+Suwako Moriya
+//Tenma
+//Mishaguji
+
+// Scarlet Weather Rhapsody
+Iku Nagae
+Tenshi Hinanawi
+
+// Subterranean Animism
+Kisume
+Yamame Kurodani
+Parsee Mizuhashi
+Yuugi Hoshiguma
+Satori Komeiji
+Rin Kaenbyou
+Utsuho Reiuji
+Koishi Komeiji
+
+// Undefined Fantastic Object
+Nazrin
+Kogasa Tatara
+Ichirin Kumoi
+Unzan
+Minamitsu Murasa
+Shou Toramaru
+Byakuren Hijiri
+Nue Houjuu
+//Bishamonten
+//Myouren Hijiri
+
+// Touhou Hisoutensoku
+Goliath Doll
+Giant Catfish
+//Hisoutensoku
+//Taisui Xingjun
+
+// Double Spoiler
+Hatate Himekaidou
+
+// Ten Desires
+Kyouko Kasodani
+Yoshika Miyako
+Seiga Kaku
+Soga no Tojiko
+Mononobe no Futo
+Toyosatomimi no Miko
+Mamizou Futatsuiwa
+
+// Hopeless Masquerade
+Hata no Kokoro
+
+//
+// Windows 3rd Generation
+//
+
+// Double Dealing Character
+Wakasagihime
+Sekibanki
+Kagerou Imaizumi
+Benben Tsukumo
+Yatsuhashi Tsukumo
+Seija Kijin
+Shinmyoumaru Sukuna
+Raiko Horikawa
+
+// Urban Legend in Limbo
+Sumireko Usami
+
+// Legacy of Lunatic Kingdom
+Seiran
+Ringo
+Doremy Sweet
+Sagume Kishin
+Clownpiece
+Junko
+Hecatia Lapislazuli
+
+// Antinomy of Common Flowers
+Joon Yorigami
+Shion Yorigami
+
+// Hidden Star in Four Seasons
+Eternity Larva
+Nemuno Sakata
+Aunn Komano
+Narumi Yatadera
+Satono Nishida
+Mai Teireida
+Okina Matara
+
+// Wily Beast and Weakest Creature
+Eika Ebisu
+Urumi Ushizaki
+Kutaka Niwatari
+Yachie Kicchou
+Mayumi Joutouguu
+Keiki Haniyasushin
+Saki Kurokoma
+
+// Touhou Gouyoku Ibun
+Yuuma Toutetsu
+
+// Unconnected Marketeers
+Mike Goutokuji
+Takane Yamashiro
+Sannyo Komakusa
+Misumaru Tamatsukuri
+Tsukasa Kudamaki
+Megumu Iizunamaru
+Chimata Tenkyuu
+Momoyo Himemushi
+
+// Unfinished Dream of All Living Ghost
+Son Biten
+Enoko Mitsugashira
+Chiyari Tenkajin
+Hisami Yomotsu
+Zanmu Nippaku
+
+//
+// Print Works
+//
+
+// Touhou Kourindou
+Rinnosuke Morichika
+Tokiko
+Marisa's unnamed father
+
+// Touhou Sangetsusei
+//Three Mischievous Fairies
+Luna Child
+Star Sapphire
+Sunny Milk
+Tsuchinoko
+Sake Bug
+Unnamed bake-danuki
+Unnamed okuri-inu
+
+// Touhou Bougetsushou
+Reisen
+Gateguards of the Lunar Capital
+Watatsuki no Toyohime
+Watatsuki no Yorihime
+Chang'e
+Lord Tsukuyomi
+Mizue no Uranoshimako
+Iwakasa
+Konohana-Sakuyahime
+Iwanagahime
+
+// Touhou Ibarakasen
+Kasen Ibaraki
+Koutei
+Mukou
+Shirou Sendai
+Unnamed kuda-gitsune
+Kume
+Kanda
+Houso
+Suiki
+Unshou
+
+// Touhou Suzunaan
+Kosuzu Motoori
+Kosuzu's Grandfather
+Unnamed Fox Student
+Unnamed Snake Youkai
+The Fortune-teller
+Anxious Moustached Villager
+Salt Merchant
+Tupai
+Evil Dragon
+
+// Touhou Chireikiden
+Mizuchi Miyadeguchi
+
+// Touhou Suichouka
+Miyoi Okunoda
+Geidontei's Owner
+Geidontei Regulars
+Unnamed Zashiki-warashi
+Unnamed Yamawaro Gambler
+
+// Fanbooks
+Giant Toad
+Daitengu
+
+//
+// Music CDs
+//
+Unnamed girl on Dolls in Pseudo Paradise CD label
+Unnamed girl on Dolls in Pseudo Paradise jacket
+Maribel Hearn
+Renko Usami
+Hieda no Akyuu
