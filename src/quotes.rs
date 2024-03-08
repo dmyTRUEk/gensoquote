@@ -9,7 +9,11 @@ use crate::{
 };
 
 pub const QUOTES: &[Quote] = &[
+	//
+	//
 	// src: https://en.touhouwiki.net/wiki/Characters
+	//
+	//
 
 	//
 	// Protagonists
@@ -205,6 +209,8 @@ pub const QUOTES: &[Quote] = &[
 		src: Some("Embodiment of Scarlet Devil, Stage 1"),
 		..Quote::default()
 	},
+
+	// TODO: fix/recheck?
 	Quote {
 		text: "Have you ever heard the saying good medicine tastes bad\"?\"",
 		char: Reimu_Hakurei,
@@ -1111,6 +1117,3631 @@ pub const QUOTES: &[Quote] = &[
 		char: Hieda_no_Akyuu,
 		src: Some("Forbidden Scrollery Chapter 19"),
 		whom_to: Some(Kosuzu_Motoori),
+		..Quote::default()
+	},
+
+
+
+	//
+	//
+	// src: https://touhou.fandom.com/wiki/Highly_Responsive_to_Quotes
+	//
+	//
+
+	// Highly Responsive to Prayers
+
+	Quote {
+		text: "Eh, whatever. If I use this Yin-Yang orb well enough, it'll all work out, right?",
+		char: Reimu_Hakurei,
+		src: Some("Highly Responsive to Prayers"),
+		..Quote::default()
+	},
+
+	// Story of Eastern Wonderland
+
+	Quote {
+		text: "Train? That's fine and well, but it's time for a good long nap.",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Whaaat, a human? She's getting such a beatdown!",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Uhhh... Do we have to fight? 'Cause I'd rather not.",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I did it! ...huh? Uh-oh... she's not moving. Oh well, time for the burial rites...",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, who cares about some cheap, middle-of-nowhere shrine.",
+		char: Mima,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ugh!!... This level... already... Impossible... Uwaaaaahhh!!",
+		char: Mima,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "So, just be a good girl and blow up, thank you.",
+		char: Rika,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Just die. And if you won't die, just go away!!",
+		char: Rika,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I am not a \"suspicious character\"!! All of the monsters in this place were created by me!!",
+		char: Rika,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "... And that's not suspicious to you?!",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Rika),
+		..Quote::default()
+	},
+	Quote {
+		text: "Stupid girl!! It's not YOU I want!! Just your POWER!!",
+		char: Meira,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "...",
+		char: Genjii,
+		src: Some("Story of Eastern Wonderland"),
+		..Quote::default()
+	},
+	Quote {
+		text: "My power? I don't get it.",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Meira),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm a woman, damn it!! What is wrong with you?!",
+		char: Meira,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "So~o, if I win... well, let's just say that certain conditions will have to be met...",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Meira),
+		..Quote::default()
+	},
+	Quote {
+		text: "Je~ez, that was sca~ry!",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Genjii),
+		..Quote::default()
+	},
+	Quote {
+		text: "M'lady, please don't speak in that odd tone again.",
+		char: Genjii,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's been a while.",
+		char: Rika,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "From the first level...?",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Rika),
+		..Quote::default()
+	},
+	Quote {
+		text: "You remember, then?",
+		char: Rika,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Small Fry.",
+		char: Reimu_Hakurei,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Rika),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm a boss!!",
+		char: Rika,
+		src: Some("Story of Eastern Wonderland"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+
+	// Phantasmagoria of Dim.Dream
+
+	Quote {
+		text: "Ufu, ufu, ufufufufufufufu-",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Uhu, uhu, uhuhuhuhuhuhuhu~",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hmhmhmhmhm.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+
+	// TODO: *sweatdrop*? here and later
+	Quote {
+		text: "Ahahahahahaha (sweatdrop)",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ahaha~",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "You will die.",
+		char: Mima,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I want to take you home and make you my guinea pig, and learn all the secrets of your power and make it mine!!",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, a real shrine maiden? How wonderful.",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, an evil spirit? Wonderful!",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, a real magician? How wonderful!",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, a real witch? How wonderful.",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I don't know what you are, but you were pretty amazing too.",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do as I say, if you value your life.",
+		char: Chiyuri_Kitashirakawa,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "No. ♥",
+		char: Mima,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Chiyuri_Kitashirakawa),
+		..Quote::default()
+	},
+	Quote {
+		text: "......... (sweatdrop)",
+		char: Chiyuri_Kitashirakawa,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "Whatever, I won't lose! Let's go!",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Yumemi_Okazaki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Just a minute. I need to change into something more suitable for battle.",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "You have no dramatic sense at all~",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Yumemi_Okazaki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Okay, let's proceed.",
+		char: Yumemi_Okazaki,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "All you did was add a cape...",
+		char: Chiyuri_Kitashirakawa,
+		src: Some("Phantasmagoria of Dim.Dream"),
+		whom_to: Some(Yumemi_Okazaki),
+		..Quote::default()
+	},
+
+	// Lotus Land Story
+
+	Quote {
+		text: "...Huh? Was I off? Guessing isn't gonna work after all (sweat).",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		..Quote::default()
+	},
+	Quote {
+		text: "If it's going to bring me a boring life, I'd rather die!",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'll bang, shoot, and pop your head off!",
+		char: Orange,
+		src: Some("Lotus Land Story"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Who, now?",
+		char: Orange,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I was looking for youkai.",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Orange),
+		..Quote::default()
+	},
+	Quote {
+		text: "And?",
+		char: Orange,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Obliteration.",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Orange),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm the guardian here, Elly.",
+		char: Elly,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "And?",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Elly),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes?",
+		char: Elly,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "We're going to fight right?",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Elly),
+		..Quote::default()
+	},
+	Quote {
+		text: "W-well, yes (sweat)",
+		char: Elly,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "In a few hours, you'll become a mist of atoms ♥",
+		char: Yuuka_Kazami,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Eeeh!?",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "And,",
+		char: Yuuka_Kazami,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "And?",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+
+	// TODO: remove dot at end, like the quote above?
+	Quote {
+		text: "I thought it'd be neat if that actually happened ♥.",
+		char: Yuuka_Kazami,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hey!!",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "There's no way you're getting away from me!! I'll chase you all the way to hell!!",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm not from hell!!",
+		char: Yuuka_Kazami,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "W-whatever, you're not getting away!!",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "Farewell, Reimu. I pray for your happiness in the next world.",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Don't just kill me off (angry)",
+		char: Reimu_Hakurei,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Whoops ♥",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I caught up!",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh? And who might you be?",
+		char: Yuuka_Kazami,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "We just met!!",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "Just kidding ♥ And?",
+		char: Yuuka_Kazami,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Don't \"And?\" me!!",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "Who might you be?",
+		char: Mugetsu,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Good question, who might I be?",
+		char: Marisa_Kirisame,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Mugetsu),
+		..Quote::default()
+	},
+	Quote {
+		text: "... (angry)",
+		char: Mugetsu,
+		src: Some("Lotus Land Story"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+
+	// Mystic Square
+
+	Quote {
+		text: "I just don't think about losing.",
+		char: Marisa_Kirisame,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "If I'm fighting you with parlor tricks, then you'll have no excuse for losing, will you?",
+		char: Marisa_Kirisame,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do you regret fighting me?",
+		char: Mima,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hm, you were just as strong as you said. Which isn't strong enough.",
+		char: Mima,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah~ I don't usually remember every single face of the small fries I encounter. ♥",
+		char: Mima,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hm, something smells weak~",
+		char: Yuuka_Kazami,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Genocide is just another game. It doesn't matter if it's humans or Makai residents.",
+		char: Yuuka_Kazami,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "It doesn't matter if you're a god, power is everything!",
+		char: Yuuka_Kazami,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Using so much magic doesn't make you any cooler, you know!!",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you ignoring me?",
+		char: Sara,
+		src: Some("Mystic Square"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "No way~, I just have to beat you up is all♪",
+		char: Reimu_Hakurei,
+		src: Some("Mystic Square"),
+		whom_to: Some(Sara),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do you think you can actually defeat both of us?",
+		char: Yuki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "・・・・・・・・・・・・",
+		char: Mai,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I wonder how someone could really lose♪",
+		char: Reimu_Hakurei,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuki),
+		..Quote::default()
+	},
+	Quote {
+		text: "I was already aware that you would be coming.",
+		char: Shinki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I think I was just flying all over the place without a goal, though...(sweat)",
+		char: Reimu_Hakurei,
+		src: Some("Mystic Square"),
+		whom_to: Some(Shinki),
+		..Quote::default()
+	},
+	Quote {
+		text: "A shrine maiden is nothing more than a dog of the gods.",
+		char: Shinki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Er, well (sweat)",
+		char: Reimu_Hakurei,
+		src: Some("Mystic Square"),
+		whom_to: Some(Shinki),
+		..Quote::default()
+	},
+	Quote {
+		text: "What is your purpose here?",
+		char: Shinki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "I dunno, sightseeing? (sweat)",
+		char: Marisa_Kirisame,
+		src: Some("Mystic Square"),
+		whom_to: Some(Shinki),
+		..Quote::default()
+	},
+	Quote {
+		text: "You've been a little too violent for me to believe that.",
+		char: Shinki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're in my way.",
+		char: Mima,
+		src: Some("Mystic Square"),
+		whom_to: Some(Sara),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm no pushover♪",
+		char: Sara,
+		src: Some("Mystic Square"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes you are♪",
+		char: Mima,
+		src: Some("Mystic Square"),
+		whom_to: Some(Sara),
+		..Quote::default()
+	},
+	Quote {
+		text: "You'll regret that!!",
+		char: Sara,
+		src: Some("Mystic Square"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "You don't look human...",
+		char: Louise,
+		src: Some("Mystic Square"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "I am! ♥ (lies)",
+		char: Mima,
+		src: Some("Mystic Square"),
+		whom_to: Some(Louise),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'll lead you to a place where you can rest forever ♥",
+		char: Yuki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm sorry, but I'm afraid I just came from that world ...",
+		char: Mima,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuki),
+		..Quote::default()
+	},
+	Quote {
+		text: "... !? I see, well, then ...",
+		char: Mai,
+		src: Some("Mystic Square"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "？",
+		char: Yuki,
+		src: Some("Mystic Square"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "You see, that means I'll be the one to lead you there ...",
+		char: Mima,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuki),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'll cleanse you of your sins.",
+		char: Yumeko,
+		src: Some("Mystic Square"),
+		whom_to: Some(Mima),
+		..Quote::default()
+	},
+	Quote {
+		text: "I don't know, I just might commit a few more here...",
+		char: Mima,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yumeko),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well, whatever shall I do? This is first contact.",
+		char: Yuuka_Kazami,
+		src: Some("Mystic Square"),
+		whom_to: Some(Louise),
+		..Quote::default()
+	},
+	Quote {
+		text: "Am I an alien ... ?",
+		char: Louise,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's been a while.",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Have I met you before?",
+		char: Reimu_Hakurei,
+		src: Some("Mystic Square"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "I've come here just so I can beat you!",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I appreciate the effort.",
+		char: Reimu_Hakurei,
+		src: Some("Mystic Square"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "I have a magic book containing the ultimate witchcraft techniques.",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ooh, I want that.",
+		char: Marisa_Kirisame,
+		src: Some("Mystic Square"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "I could never allow humans like you to use this sort of magic.",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh? Well, I wouldn't mind just looking...",
+		char: Marisa_Kirisame,
+		src: Some("Mystic Square"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's been a long time.",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "A long time indeed. ♥ What brings you here?",
+		char: Yuuka_Kazami,
+		src: Some("Mystic Square"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "? I have come here especially in order to defeat you!",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+	Quote {
+		text: "By the way, who are you?",
+		char: Yuuka_Kazami,
+		src: Some("Mystic Square"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "(Angry) (Ignores)",
+		char: Alice_Margatroid,
+		src: Some("Mystic Square"),
+		whom_to: Some(Yuuka_Kazami),
+		..Quote::default()
+	},
+
+	// Embodiment of Scarlet Devil
+
+	Quote {
+		text: "Have you heard the saying, \"Good medicine tastes bad\"",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well, you wouldn't know if it's good medicine or not unless you drank it for yourself.",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do any creatures outside of humans even have 10 fingers?",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm really tasty.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, me? Lessee, I'm Reimu Hakurei. Shrine maiden.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "(Maybe I shoulda said nurse?)",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Unfortunately, I'm pretty good at dodging.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, is that so...",
+		char: Rumia,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you the kind of person I can eat?",
+		char: Rumia,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "When you lose your way, you can blame the fairies.",
+		char: Cirno,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'll cryo-freeze you together with some English beef!",
+		char: Cirno,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm a normal person who just guards.",
+		char: Hong_Meiling,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I heard shrine maidens are the ones you're allowed to eat.",
+		char: Hong_Meiling,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "You, clothed in red and white! Don't cause problems in my study.",
+		char: Patchouli_Knowledge,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I don't have time for this~ The little sister, and now you - What kind of day is this?!",
+		char: Patchouli_Knowledge,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Come back two hours earlier.",
+		char: Sakuya_Izayoi,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Your time is mine...",
+		char: Sakuya_Izayoi,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I've got to at least make you waste a bomb before the mistress gets mad at me~",
+		char: Sakuya_Izayoi,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "The moon tonight is red. You will know death.",
+		char: Remilia_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Can you remember how many slices of bread you have eaten until now?",
+		char: Remilia_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I've never seen humans as anything else but a drink.",
+		char: Flandre_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Stop following me already~",
+		char: Hong_Meiling,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Thanks for leading the way~",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Hong_Meiling),
+		..Quote::default()
+	},
+	Quote {
+		text: "...I've heard that shrine maidens make for good eating...",
+		char: Hong_Meiling,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Don't spread rumors like that!",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Hong_Meiling),
+		..Quote::default()
+	},
+	Quote {
+		text: "The books here are worth all the donations your shrine has received over the past five years.",
+		char: Patchouli_Knowledge,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "My shrine rarely has any visitors during the year.",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Patchouli_Knowledge),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh. Then they're not worth much.",
+		char: Patchouli_Knowledge,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Isn't this something like 'The saint was crucified on the cross'?",
+		char: Rumia,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Looks more to me like 'Man uses the decimal system.'",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Rumia),
+		..Quote::default()
+	},
+	Quote {
+		text: "Whoa, so many books. I'll just borrow some later.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Patchouli_Knowledge),
+		..Quote::default()
+	},
+	Quote {
+		text: "Don't take any books, please.",
+		char: Patchouli_Knowledge,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm gonna take 'em.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Patchouli_Knowledge),
+		..Quote::default()
+	},
+	Quote {
+		text: "Let's see, 'How to passively defeat the person in black in front of you ...'",
+		char: Patchouli_Knowledge,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "(That actually written in there?)",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Patchouli_Knowledge),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh my, magicians are actually more in need of mercy.",
+		char: Sakuya_Izayoi,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Have mercy.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's so hot, I'm gonna die here.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "If you die, I'll feed your corpse to the birds.",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "My, it'd be fine if you'd let me take care of that.",
+		char: Remilia_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "That's a definite no.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Remilia_Scarlet),
+		..Quote::default()
+	},
+	Quote {
+		text: "I've been in the basement. For about 495 years.",
+		char: Flandre_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "That's sweet, I only get weekends off.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Flandre_Scarlet),
+		..Quote::default()
+	},
+	Quote {
+		text: "Looks like it's going to be a fun night.",
+		char: Remilia_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Looks like it's going to be a long night.",
+		char: Reimu_Hakurei,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Remilia_Scarlet),
+		..Quote::default()
+	},
+	Quote {
+		text: "One coin? You can't buy a life with that.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Flandre_Scarlet),
+		..Quote::default()
+	},
+	Quote {
+		text: "I meant you can't use a continue!",
+		char: Flandre_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "How many people’s blood have you sucked until now?",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Remilia_Scarlet),
+		..Quote::default()
+	},
+	Quote {
+		text: "How many slices of bread have you eaten until now?",
+		char: Remilia_Scarlet,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Thirteen. I prefer Japanese food.",
+		char: Marisa_Kirisame,
+		src: Some("Embodiment of Scarlet Devil"),
+		whom_to: Some(Remilia_Scarlet),
+		..Quote::default()
+	},
+
+	// Perfect Cherry Blossom
+
+	Quote {
+		text: "Hold on, if you sleep in this cold I'll kill you.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "That was a pointless encounter with a pointless person.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I killed some lively and exciting guys on my way up here...",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "If you can only sleep in warm weather, then you're like us and the Asebi flowers.",
+		char: Letty_Whiterock,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Silly shrine maiden, your two-colored powers are a mere twenty-eight-point-five-seven-one-four percent as powerful as mine!",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Unwanted noise like you should be drowned out.",
+		char: Lunasa_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well then, let's start the performance! Sisters, get ready!",
+		char: Lyrica_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Being here in this place is equal to being dead.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I am leagues different from Chen. Leagues, columns, digits, and colors.",
+		char: Ran_Yakumo,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Here, in Hakugyokurou where we stand, the border between youkai and humans wears thin. You came this far, and were able to cross over from the human side.",
+		char: Yukari_Yakumo,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "You mean noctambulism? That’s my hobby too.",
+		char: Yukari_Yakumo,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I’m still in bad shape as I’ve just awakened from my hibernation.",
+		char: Yukari_Yakumo,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I never expected anyone could make their way through~",
+		char: Yukari_Yakumo,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Stronger how exactly? Financially?",
+		char: Sakuya_Izayoi,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Sorry I can’t give you my autograph.",
+		char: Sakuya_Izayoi,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "By the way, I hear that Mayohiga's items give you good fortune if you take them home...",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Chen),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah, that's true.",
+		char: Chen,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Then let the plundering begin!",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Chen),
+		..Quote::default()
+	},
+	Quote {
+		text: "Uh... what? This is our home. Get out of here now!",
+		char: Chen,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+
+	// TODO: fix/recheck?
+	Quote {
+		text: "So what happened to You can't leave once you wander in\"?\"",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Chen),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hey, I have business here. I'm not going home yet.",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Lunasa_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "Nobody's telling you to go home.",
+		char: Lunasa_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're quite a talkative ghost.",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm half non-ghost, you know!",
+		char: Youmu_Konpaku,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "That's what needed correction?",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you even listening to me? I'm going to cut you down here, and you'll meet your end.",
+		char: Youmu_Konpaku,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "If I die in the land of the dead, would I be sent to the land of the dead again?",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'll send you to hell!",
+		char: Youmu_Konpaku,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "You like the flowers, do you? We do have a few empty places at the party...",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, really? Well then, let's go have a look.",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "You still are not invited, dear.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Just what is the Saigyou Ayakashi?",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Our youkai cherry tree. We still don't have enough spring to break the seal on its blossom.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well, if it's been intentionally sealed up, It's probably better not to mess with it, right? Besides, we don't know what's sealed in it.",
+		char: Reimu_Hakurei,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "How can you say that after breaching through our barrier?",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Wanderer, to have arrived at this place, you must surely have lost your way?",
+		char: Chen,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "I never had a way.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Chen),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do you find this brutal evening likable?",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "It isn't bad.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "Then surely you are a magician of the untamed fields.",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "As opposed to a magician from a greenhouse?",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "So who are you?",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Lyrica_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "It doesn't matter, does it?",
+		char: Lyrica_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah, I guess it doesn't.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Lyrica_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "So are you gonna tell me how to open the gate?",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Prismriver_Sisters),
+		..Quote::default()
+	},
+	// TODO: when: after defeating the Prismrivers
+
+	Quote {
+		text: "We don't, we just fly over it...",
+		char: Prismriver_Sisters,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Prismriver_Sisters),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you listening to me?",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "I am. You're saying that when you die, you want to die beneath a cherry tree?",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Not... exactly, no.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you smelling with your eyes?",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Not exactly. Damn, this is a boring way to start spring.",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "You are rude. The spring that you feel here is none other than the spring of your Gensokyo.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "That's rude. What kind of person can smell with their eyes?",
+		char: Marisa_Kirisame,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're lagging behind in the conversation.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Why don't you worry about yourself if you have time to worry about others?",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh yes, I'm worried about myself now.",
+		char: Sakuya_Izayoi,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "So, for what reason do you worry? About yourself.",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Because I'm carrying only three changes of clothes. For myself.",
+		char: Sakuya_Izayoi,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah, good reason.",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "That, and a spare set of knives too.",
+		char: Sakuya_Izayoi,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah, I... KNIVES?",
+		char: Alice_Margatroid,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Dog meat, dog meat!",
+		char: Prismriver_Sisters,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Human meat!",
+		char: Sakuya_Izayoi,
+		src: Some("Perfect Cherry Blossom"),
+		whom_to: Some(Prismriver_Sisters),
+		..Quote::default()
+	},
+	Quote {
+		text: "And who is that?",
+		char: Merlin_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "An ascending air current.",
+		char: Lunasa_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Our natural enemy!!",
+		char: Lyrica_Prismriver,
+		src: Some("Perfect Cherry Blossom"),
+		..Quote::default()
+	},
+
+	// Imperishable Night
+
+	Quote {
+		text: "Okay, okay, I give up. You're right. The endless night, stealing the full moon, Hiding the human village, and putting hats on stone statues, It's all Alice's fault. Now, bitch, get out of the way!",
+		char: Marisa_Kirisame,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Move and I'll shoot!! I messed up. I mean, shoot and I'll move. In a flash.",
+		char: Marisa_Kirisame,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Okay, so I take that back. Youkai must still be crushed by humans. It is my destiny. I will continue to crush Youkai.",
+		char: Reimu_Hakurei,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're too late.",
+		char: Reisen_Udongein_Inaba,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I've sealed all the doors. You can't take the princess away now, can you?",
+		char: Reisen_Udongein_Inaba,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	Quote {
+		text: "My god, jelly donuts are so scary.",
+		char: Fujiwara_no_Mokou,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hey, hey, hey. You've got some guts, not being bugged in the slightest. I hope you've got the determination to match that!",
+		char: Wriggle_Nightbug,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Was that a pun?",
+		char: Reimu_Hakurei,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Wriggle_Nightbug),
+		..Quote::default()
+	},
+	Quote {
+		text: "So, these are full-moon-beams... I can't see them, but I can feel them.",
+		char: Marisa_Kirisame,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ordinary people would go insane in less than five seconds. Are you okay, Marisa?",
+		char: Alice_Margatroid,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah, I'm insane to begin with.",
+		char: Marisa_Kirisame,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+
+
+	Quote {
+		text: "Hold on for a moment. A small bone got stuck in my throat...",
+		char: Yuyuko_Saigyouji,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "Wait, didn't you just say you didn't like sparrows?",
+		char: Youmu_Konpaku,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Youmu, it's not good to be so fussy.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+
+	// ?
+	// (Despite being eaten by a ghost, Mystia returns in Phantasmagoria of Flower View.)
+
+	Quote {
+		text: "See, bookworms can be useful. The mansion doesn't need any more of them, though.",
+		char: Sakuya_Izayoi,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Remilia_Scarlet),
+		..Quote::default()
+	},
+	Quote {
+		text: "Our mansion's bookworm really is a bookworm, so she's hardly useful at all...",
+		char: Remilia_Scarlet,
+		src: Some("Imperishable Night"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah, it's an illusion. I wonder if that absurdly long corridor was also an illusion.",
+		char: Sakuya_Izayoi,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "It seems like an illusion. With such a long corridor, any cleaning mop wouldn't stand a chance.",
+		char: Remilia_Scarlet,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "Well, I guess you'd need a wet rag, not a mop. It would give you a backache, though.",
+		char: Sakuya_Izayoi,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "What a pointless thing to worry about. It's an illusion. An illusion.",
+		char: Eirin_Yagokoro,
+		src: Some("Imperishable Night"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	// Phantasmagoria of Flower View
+
+	Quote {
+		text: "Froggy, froggy~ he's forgotten spring and is still sleeping, sleeping.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "When I cool a frog it sleeps and doesn't wake it. Really fun.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Your destination is in ice.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Freeze to death! Freeze to death!",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Look! Freezing falling cherry blossoms is cool!",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I learned something. Above the clouds, ice tends to stick to me, so I should try to avoid coming here.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm the strongest!",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah. I'm the best.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "A professional doesn't choose their songs.",
+		char: Mystia_Lorelei,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Mind if I take a rabbit's foot with me? As a good luck charm.",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Tewi_Inaba),
+		..Quote::default()
+	},
+	Quote {
+		text: "That's not the problem! If I leave this alone, it'll look like I'm slacking off!",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah, geez, if I don't get this over with soon I'll look like I'm slacking off.",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Now then, time for a news story!",
+		char: Aya_Shameimaru,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hmm. I would've been better off taking pictures secretly...",
+		char: Aya_Shameimaru,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh dear me, I've accidentally won. And I thought I've held back enough too... Well this isn't any fun.",
+		char: Aya_Shameimaru,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "You must be happy. You can die surrounded by poison.",
+		char: Medicine_Melancholy,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "For a fairy, it's not a problem if they can't go back, right? How about getting as lost as you want to?",
+		char: Tewi_Inaba,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Er, um, I'll just pretend I didn't see that.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I won't show mercy if you're going to interrupt my laid-back work.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "If you're going to commit suicide then I'll kill you.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Now then, back to work, I'll get in trouble if I play around too much.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you slacking off!? Komachi!",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+
+	// TODO: *sigh*?
+	Quote {
+		text: "Sigh. When I first saw Komachi, she seemed like a more diligent person.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "It looks like I still need to lecture you much more.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Normally, if I just randomly go and fight, the culprit will show themselves in no time!",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "That's not something to brag about, though.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I usually don't let living humans pass but... If they pay the fee, then they're good to go.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I said I'm not crossing. And I don't have any money either.",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Komachi_Onozuka),
+		..Quote::default()
+	},
+	Quote {
+		text: "If you do it now it's 10% off.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "If I were in charge of judging you, you have sinned.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "How rude! Exterminating youkai is my job, it can't be helped.",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah, a lucky item! How lucky.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Tewi_Inaba),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm not an item ... oh,",
+		char: Tewi_Inaba,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "But you have not a single clue on the culprit or cause, right? It's pointless to just wander around like that.",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "And why are you doing the same?",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Because I can't find a lead on the culprit or cause.",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "You've mistaken me for someone else.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Aya_Shameimaru),
+		..Quote::default()
+	},
+	Quote {
+		text: "There was a picture. The newspaper it was in has already been published.",
+		char: Aya_Shameimaru,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Secretly taking pictures huh... that's one bad hobby.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Aya_Shameimaru),
+		..Quote::default()
+	},
+	Quote {
+		text: "The only humans who come to Muenzuka are ones that want to die.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Who's the one that wants to die!?",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Komachi_Onozuka),
+		..Quote::default()
+	},
+	Quote {
+		text: "Now, now, there are still plenty of enjoyable things in this world. It's ten years too early to say you're dying.",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "I don't plan on dying ten years later either.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Komachi_Onozuka),
+		..Quote::default()
+	},
+	Quote {
+		text: "Gehgeh, are you saying that in every single flower is a dead human? I accidentally picked some earlier. In bulk.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Bulk murderers, then.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's fine, they can rest in peace this way.",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "If I was the one in charge of judging you, ripping out your tongue would be your sentence.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Is that it? Maybe I should've prepared a spare tongue?",
+		char: Marisa_Kirisame,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Your second tongue will also be ripped out.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Tomorrow's dish is fried chicken.",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Mystia_Lorelei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Tonight's dish is a human maid!",
+		char: Mystia_Lorelei,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Higanbana? That's silly. There's no way higanbana would be blooming now...",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's an outbreak. Try actually looking around yourself.",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Komachi_Onozuka),
+		..Quote::default()
+	},
+	Quote {
+		text: "Eeh? What's going on? Higanbana are blooming, and purple cherry blossoms too... Huh? Could this be!?",
+		char: Komachi_Onozuka,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Don't you think this flower outbreak needs your attention?",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Of course, I understand. But that's part of the business I'm in.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "(A business involving blooming flowers, is this person a florist?)",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm making a close-up report on you, since you seem to be doing something interesting.",
+		char: Aya_Shameimaru,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "Making a close-up report... Does that mean to follow me from behind without permission?",
+		char: Youmu_Konpaku,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Aya_Shameimaru),
+		..Quote::default()
+	},
+	Quote {
+		text: "If I told you, you might've stopped doing something interesting. So I quietly stuck on you.",
+		char: Aya_Shameimaru,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "I see, well then, I'll be on my way...",
+		char: Reisen_Udongein_Inaba,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ufufu, hold on a second. I want to say something to you.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reisen_Udongein_Inaba),
+		..Quote::default()
+	},
+	Quote {
+		text: "Aah. Of course the Yama would...",
+		char: Reisen_Udongein_Inaba,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "What is it? Are you saying that I'll be lecturing to no end?",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reisen_Udongein_Inaba),
+		..Quote::default()
+	},
+	Quote {
+		text: "Sorry to frighten you.",
+		char: Youmu_Konpaku,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Cirno),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm going to beat you for that.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Youmu_Konpaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah, idiot sighted. Are you planning to do something bad?",
+		char: Reimu_Hakurei,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Cirno),
+		..Quote::default()
+	},
+	Quote {
+		text: "Of course!",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "I ripped a flower or two into pieces!",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Reisen_Udongein_Inaba),
+		..Quote::default()
+	},
+	Quote {
+		text: "Anyone can rip up a flower or two.",
+		char: Reisen_Udongein_Inaba,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Cirno),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're so loud in the morning.",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Lyrica_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "But I haven't even started my performance yet.",
+		char: Lyrica_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Cirno),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're loud enough just by being here, and now you're saying you'll perform?!",
+		char: Cirno,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Lyrica_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "Almost to the degree of rareness, the poltergeists appear here.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Lyrica_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "Plural again~ Get it through, I'm alone today.",
+		char: Lyrica_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, then what are the two behind you?",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Lyrica_Prismriver),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ah? You're not supposed to say that~",
+		char: Lunasa_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Eiki_Shiki),
+		..Quote::default()
+	},
+	Quote {
+		text: "After managing to hide this much too...",
+		char: Merlin_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "Huh!? When did you two end up behind me!?",
+		char: Lyrica_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO: Merlin & Lunasa?
+
+	Quote {
+		text: "We were watching you from the beginning.",
+		char: Lunasa_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO: Lyrica or Sikieiki?
+
+	Quote {
+		text: "You looked like you were doing something interesting, so we did it in secret.",
+		char: Merlin_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO: Lyrica or Sikieiki?
+
+	Quote {
+		text: "There, three noisy spirits. You're going to perform live in this cemetery, aren't you.",
+		char: Eiki_Shiki,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO: Lyrica Lunasa Merlin
+
+	Quote {
+		text: "What the heck~ If you were going to follow me then tell me from the beginning!",
+		char: Lyrica_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "We were going to come out if it got dangerous.",
+		char: Lunasa_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "Yes, yes. Like right now.",
+		char: Merlin_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "Right now?",
+		char: Lyrica_Prismriver,
+		src: Some("Phantasmagoria of Flower View"),
+		..Quote::default()
+	},
+	// whom_to: TODO
+
+	Quote {
+		text: "With this much poison, I could make delicious tea.",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Medicine_Melancholy),
+		..Quote::default()
+	},
+	Quote {
+		text: "Delicious tea. You're a strange human.",
+		char: Medicine_Melancholy,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Sakuya_Izayoi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, I'm not the one who's going to drink it.",
+		char: Sakuya_Izayoi,
+		src: Some("Phantasmagoria of Flower View"),
+		whom_to: Some(Medicine_Melancholy),
+		..Quote::default()
+	},
+
+	// Mountain of Faith
+
+	Quote {
+		text: "I could recite all the digits of pi before I got there!",
+		char: Marisa_Kirisame,
+		src: Some("Mountain of Faith"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Gah, a human!?",
+		char: Nitori_Kawashiro,
+		src: Some("Mountain of Faith"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Ayayayaya...",
+		char: Aya_Shameimaru,
+		src: Some("Mountain of Faith"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Huh? I smell something tasty...",
+		char: Reimu_Hakurei,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Minoriko_Aki),
+		..Quote::default()
+	},
+	Quote {
+		text: "Even though you're a shrine maiden, you want to eat a god? How ridiculous! What insolence!",
+		char: Minoriko_Aki,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Who said I was going to eat you? But is that delicious smell coming from you?",
+		char: Reimu_Hakurei,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Minoriko_Aki),
+		..Quote::default()
+	},
+	Quote {
+		text: "I was just trying to be nice and chase you away...",
+		char: Hina_Kagiyama,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Chasing me away really isn't that nice.",
+		char: Reimu_Hakurei,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Hina_Kagiyama),
+		..Quote::default()
+	},
+	Quote {
+		text: "This is the Moriya shrine, A long-forgotten shrine of the past. It was moved into Gensokyo together with the lake you see here.",
+		char: Sanae_Kochiya,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "You moved the shrine and the whole lake? That's pretty flashy.",
+		char: Reimu_Hakurei,
+		src: Some("Mountain of Faith"),
+		whom_to: Some(Sanae_Kochiya),
+		..Quote::default()
+	},
+
+	// Scarlet Weather Rhapsody
+
+	Quote {
+		text: "Pisses me off that only the shrine collapsed. It'd be great if your place collapsed too.",
+		char: Reimu_Hakurei,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Sakuya
+
+	Quote {
+		text: "Tonight is rabbit stew!",
+		char: Reimu_Hakurei,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Reisen
+
+	Quote {
+		text: "I'm winning 101 matches out of 100 in image training!",
+		char: Marisa_Kirisame,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: (Win against herself)
+
+	Quote {
+		text: "How about have the kappa make you a motor boat? It'd make your job fun.",
+		char: Marisa_Kirisame,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: (Win against Komachi)
+
+	Quote {
+		text: "Your dolls are filled with gunpowder? That's hardcore.",
+		char: Sakuya_Izayoi,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Alice
+
+	Quote {
+		text: "My underlings are more disciplined than yours.",
+		char: Alice_Margatroid,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Sakuya
+
+	Quote {
+		text: "Drizzle that humidifies the air is the book's worst enemy. I imagine they get moldy in your house too.",
+		char: Patchouli_Knowledge,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Marisa
+
+	Quote {
+		text: "Is it really okay for a newspaper reporter to interfere with their photo subjects like that?",
+		char: Youmu_Konpaku,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Aya
+
+	Quote {
+		text: "Go away, you rainmaker.",
+		char: Remilia_Scarlet,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Marisa
+
+	Quote {
+		text: "So what if the ground shakes a little? I'll be fine once I'm under a table!",
+		char: Remilia_Scarlet,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Tenshi
+
+	Quote {
+		text: "Ah, you finished clearing the snow in the manor?",
+		char: Yuyuko_Saigyouji,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Youmu
+
+	Quote {
+		text: "Fantastic Ninja Art, Clone Technique~",
+		char: Yuyuko_Saigyouji,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against herself
+
+	Quote {
+		text: "Animals that eat nothing but bamboo grass... No way.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Reisen
+
+	Quote {
+		text: "They say that oarfish can grow to be over 18 meters long. You're pretty tiny.",
+		char: Yukari_Yakumo,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Iku
+
+	Quote {
+		text: "Are you collecting junk? Want me to help? I'm a real junk collector.",
+		char: Suika_Ibuki,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Marisa
+
+	Quote {
+		text: "Aren't your moves way too flashy? I could probably block you in my sleep.",
+		char: Suika_Ibuki,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Remilia
+
+	Quote {
+		text: "Hm, I was wondering when you'd be on the move.",
+		char: Suika_Ibuki,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Yukari
+
+	Quote {
+		text: "Peaches? Hmmm, it's nostalgic.",
+		char: Reisen_Udongein_Inaba,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Tenshi
+
+	Quote {
+		text: "I'm dying to know just how bad the fabled poor cuisine of Heaven is.",
+		char: Aya_Shameimaru,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Tenshi
+
+	Quote {
+		text: "Extra~ Extra~ Nothing big happened, but it's still an extra!",
+		char: Aya_Shameimaru,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against someone
+
+	Quote {
+		text: "From cooking to washing, cleaning to battling, you're quite hard working.",
+		char: Komachi_Onozuka,
+		src: Some("Scarlet Weather Rhapsody"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Sakuya
+
+	Quote {
+		text: "Oh, aren't you...",
+		char: Yuyuko_Saigyouji,
+		src: Some("Scarlet Weather Rhapsody"),
+		whom_to: Some(Iku_Nagae),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes, I'm the messenger from the dragon palace.",
+		char: Iku_Nagae,
+		src: Some("Scarlet Weather Rhapsody"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "...famously grilled in soy-sauce, or just grilled plain...",
+		char: Yuyuko_Saigyouji,
+		src: Some("Scarlet Weather Rhapsody"),
+		whom_to: Some(Iku_Nagae),
+		..Quote::default()
+	},
+	Quote {
+		text: "Most certainly not.",
+		char: Iku_Nagae,
+		src: Some("Scarlet Weather Rhapsody"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+
+	// Subterranean Animism
+
+	Quote {
+		text: "Aah! The cat turned into a cat!",
+		char: Reimu_Hakurei,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Is that bird really that strong?",
+		char: Reimu_Hakurei,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "But we don’t even know what god she’s supposed to have eaten.",
+		char: Reimu_Hakurei,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's not like I mind beating her, but ... It's kind of hard to have a conversation that way.",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "What's the power of the sun? Photosynthesis? Sunburn?",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "She didn't spill a drop of her sake.",
+		char: Patchouli_Knowledge,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Now, sleep with this trauma that will leave you sleepless!",
+		char: Satori_Komeiji,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "It seems you're here to fight. But it doesn't look like you have a reason for it.",
+		char: Satori_Komeiji,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, you catch on pretty quickly. I definitely don't have a good reason.",
+		char: Reimu_Hakurei,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Satori_Komeiji),
+		..Quote::default()
+	},
+	Quote {
+		text: "... ... now you're trying to think of one. ... ... evil spirits, oni? Hot springs? Burglary!?",
+		char: Satori_Komeiji,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "'Before that, let's search the house....' you think. I won't allow that. Please head to the courtyard immediately.",
+		char: Satori_Komeiji,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Damn.",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Satori_Komeiji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Whew... This is so hot. So hot I could die!",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "(Are the dolls okay?)",
+		char: Alice_Margatroid,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah, but it's so hot I wouldn't be surprised if they burned up.",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "(I think the dolls themselves will be fine, but it would be bad if the gunpowder inside caught fire.)",
+		char: Alice_Margatroid,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Why the hell did you stuff gunpowder in 'em?!",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Alice_Margatroid),
+		..Quote::default()
+	},
+	Quote {
+		text: "What's wrong? Are you trying to figure out who I am?",
+		char: Yuugi_Hoshiguma,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hey! You got it, you're pretty good. That's it, now just tell me your weak point, please.",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Yuugi_Hoshiguma),
+		..Quote::default()
+	},
+	Quote {
+		text: "Like I said, I'm Marisa, the Great Sage!",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Koishi_Komeiji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you the doll-using thief that they said visited our house?",
+		char: Koishi_Komeiji,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Wha- !!",
+		char: Marisa_Kirisame,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Koishi_Komeiji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Tee hee.",
+		char: Alice_Margatroid,
+		src: Some("Subterranean Animism"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, don't worry. If you just tell people you're friends with the people at the Palace, I'm sure most of the youkai will avoid you.",
+		char: Koishi_Komeiji,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Nitori_Kawashiro),
+		..Quote::default()
+	},
+	Quote {
+		text: "(... ... wow, everybody hates them.)",
+		char: Nitori_Kawashiro,
+		src: Some("Subterranean Animism"),
+		whom_to: Some(Koishi_Komeiji),
+		..Quote::default()
+	},
+
+	// Undefined Fantastic Object
+
+	Quote {
+		text: "Why am I getting lectured by a cursed umbrella!? Fine, I'll beat you while I chase it, okay?",
+		char: Reimu_Hakurei,
+		src: Some("Undefined Fantastic Object"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh! So this is youkai hunting! ... ... This is kind of fun.",
+		char: Sanae_Kochiya,
+		src: Some("Undefined Fantastic Object"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Urameshiyaaaaa!",
+		char: Kogasa_Tatara,
+		src: Some("Undefined Fantastic Object"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I-I can't believe I lost to such an unidentifiable human!",
+		char: Nue_Houjuu,
+		src: Some("Undefined Fantastic Object"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Now, human! Boil me! Bake me alive! Do anything you wish! Oh, but please, just don't seal me underground again.",
+		char: Nue_Houjuu,
+		src: Some("Undefined Fantastic Object"),
+		..Quote::default()
+	},
+	Quote {
+		text: "*sob sob* Just what are we youkai, anyway?",
+		char: Kogasa_Tatara,
+		src: Some("Undefined Fantastic Object"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Maybe you're luxury items?",
+		char: Reimu_Hakurei,
+		src: Some("Undefined Fantastic Object"),
+		whom_to: Some(Kogasa_Tatara),
+		..Quote::default()
+	},
+	Quote {
+		text: "Just fall out of the sky, you stupid umbrella youkai.",
+		char: Reimu_Hakurei,
+		src: Some("Undefined Fantastic Object"),
+		whom_to: Some(Kogasa_Tatara),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh humans are so cruel.",
+		char: Kogasa_Tatara,
+		src: Some("Undefined Fantastic Object"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hey, you looked like you wanted me to beat you. Hmm, what do they call that?",
+		char: Reimu_Hakurei,
+		src: Some("Undefined Fantastic Object"),
+		whom_to: Some(Kogasa_Tatara),
+		..Quote::default()
+	},
+	Quote {
+		text: "I dunno, Sadism?",
+		char: Kogasa_Tatara,
+		src: Some("Undefined Fantastic Object"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+
+	// Touhou Hisoutensoku
+
+	Quote {
+		text: "You're always trying to close in on me. Are you trying to burn yourself to death?",
+		char: Utsuho_Reiuji,
+		src: Some("Touhou Hisoutensoku"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Meiling
+
+	Quote {
+		text: "Wait, what? You didn't get blasted to smithereens. Was the output too low...?",
+		char: Utsuho_Reiuji,
+		src: Some("Touhou Hisoutensoku"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Cirno
+
+	Quote {
+		text: "Hey, it's a shrine maiden. I can't tell you shrine maidens apart from one another.",
+		char: Utsuho_Reiuji,
+		src: Some("Touhou Hisoutensoku"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Reimu or Sanae
+
+	Quote {
+		text: "It's so fun just to imagine what that large marshmallow-looking thing of yours tastes like.",
+		char: Sanae_Kochiya,
+		src: Some("Touhou Hisoutensoku"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Youmu
+
+	Quote {
+		text: "Your surrounding are full of unnatural naturalness",
+		char: Cirno,
+		src: Some("Touhou Hisoutensoku"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Patchouli
+
+	// Fairy Wars
+
+	Quote {
+		text: "Come out! Sunlight fairy, or whatever your name is!",
+		char: Cirno,
+		src: Some("Fairy Wars"),
+		..Quote::default()
+	},
+	Quote {
+		text: "So, what was I doing, again...?",
+		char: Cirno,
+		src: Some("Fairy Wars"),
+		..Quote::default()
+	},
+
+	// Ten Desires
+
+	Quote {
+		text: "If you wanna shoot the leader, shoot his horse first! Get ready for this!",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh yeah, I'm graverobbing! I mean, inspecting the ruins! Academic business and all! The gathering of divine spirits interests me. In an academic sense.",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oof, the stench of death is strong on you.",
+		char: Youmu_Konpaku,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Goooood morning! You always gotta give a greeting!",
+		char: Kyouko_Kasodani,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Dooon't come any closeeer!",
+		char: Yoshika_Miyako,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Divine spirits? What're those? Are they nutritious?",
+		char: Yoshika_Miyako,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "NOOOOOooooo! I'm dyiiiiing!",
+		char: Yoshika_Miyako,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Make sure to wake me up tonight at ten.",
+		char: Yoshika_Miyako,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes, isn't rotting the cutest?",
+		char: Seiga_Kaku,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "What a magnificent human. I could learn a thing or two from you. But then again, I wonder if there are any humans whom I couldn't learn from...",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Just try to defeat me! I shall become as a living legend!",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "This is animal abuse, plain and simple!",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	// TODO: when: Defeated
+
+	Quote {
+		text: "Yes, what? Are you going to catch and cook me?",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Alright, then, gonna have to beat the leader of the ghosts!",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, do we have visitors? Hold on a moment, I'm still preparing tea.",
+		char: Yuyuko_Saigyouji,
+		src: Some("Ten Desires"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, you shouldn't have.",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Yuyuko_Saigyouji),
+		..Quote::default()
+	},
+	Quote {
+		text: "Even if you defeat me, it doesn't do anything for you...",
+		char: Kyouko_Kasodani,
+		src: Some("Ten Desires"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well, you're a youkai. First priority is exterminating you.",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Kyouko_Kasodani),
+		..Quote::default()
+	},
+	Quote {
+		text: "I am sure that next, you will say something like -",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Ten Desires"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Whoa, whoa, hold on a second! Would you let me talk?! I mean, I came all this way!",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Toyosatomimi_no_Miko),
+		..Quote::default()
+	},
+	Quote {
+		text: "What are you trying to protect?",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		whom_to: Some(Yoshika_Miyako),
+		..Quote::default()
+	},
+	Quote {
+		text: "Um... something...",
+		char: Yoshika_Miyako,
+		src: Some("Ten Desires"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "You're a terrible conversationalist. Brain rot, I suppose?",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		whom_to: Some(Yoshika_Miyako),
+		..Quote::default()
+	},
+	Quote {
+		text: "What a sight. You aren't just an ordinary human, are you?",
+		char: Seiga_Kaku,
+		src: Some("Ten Desires"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah, I'm an ordinary magician.",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		whom_to: Some(Seiga_Kaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh, there's no need for modesty. One of the living holding their own against me is truly remarkable.",
+		char: Seiga_Kaku,
+		src: Some("Ten Desires"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Alright, I give. I'm a very ordinary magician.",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		whom_to: Some(Seiga_Kaku),
+		..Quote::default()
+	},
+	Quote {
+		text: "I am Toyosatomimi no Miko. People call me Shoutoku.",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Ten Desires"),
+		whom_to: Some(Sanae_Kochiya),
+		..Quote::default()
+	},
+	Quote {
+		text: "Shoutoku?! The one from the old 10,000-yen bill?!",
+		char: Sanae_Kochiya,
+		src: Some("Ten Desires"),
+		whom_to: Some(Toyosatomimi_no_Miko),
+		..Quote::default()
+	},
+	Quote {
+		text: "(How \"old\" would that be?)",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Ten Desires"),
+		whom_to: Some(Sanae_Kochiya),
+		..Quote::default()
+	},
+	Quote {
+		text: "You already showed me your ten transformations, didn't you?",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Mamizou_Futatsuiwa),
+		..Quote::default()
+	},
+	Quote {
+		text: "A-one, a-two, a-three...",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Oh my, I really did? I thought we were still 'round about seven or eight...",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "The ocean?",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Mamizou_Futatsuiwa),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes, what of it? Don't you know of the ocean?",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		whom_to: Some(Reimu_Hakurei),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well, I think I've seen it once, but that was in the moon.",
+		char: Reimu_Hakurei,
+		src: Some("Ten Desires"),
+		whom_to: Some(Mamizou_Futatsuiwa),
+		..Quote::default()
+	},
+	Quote {
+		text: "Are you insulting me still? What's your name, anyway?!",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		whom_to: Some(Marisa_Kirisame),
+		..Quote::default()
+	},
+	Quote {
+		text: "Reimu Hakurei!",
+		char: Marisa_Kirisame,
+		src: Some("Ten Desires"),
+		whom_to: Some(Mamizou_Futatsuiwa),
+		..Quote::default()
+	},
+	Quote {
+		text: "What might you be? The Hakurei maiden?",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Ten Desires"),
+		whom_to: Some(Sanae_Kochiya),
+		..Quote::default()
+	},
+	Quote {
+		text: "Incorrect, and please don't associate me with her.",
+		char: Sanae_Kochiya,
+		src: Some("Ten Desires"),
+		whom_to: Some(Mamizou_Futatsuiwa),
+		..Quote::default()
+	},
+
+	// Hopeless Masquerade
+
+	Quote {
+		text: "I get so excited with this many spectators. It just makes me want to be all like pow! and wham!",
+		char: Reimu_Hakurei,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	Quote {
+		text: "This monk sure is weak; even her robes are weak.",
+		char: Marisa_Kirisame,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Ichirin
+
+	Quote {
+		text: "Everyone stinks o' incense around you. Boring.",
+		char: Marisa_Kirisame,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Byakuren
+
+	Quote {
+		text: "You oughta fix up that old accent o' yours. Try talkin' more modern-like.",
+		char: Marisa_Kirisame,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Futo
+
+	Quote {
+		text: "If you enter our temple, you can survive only on cucumbers.",
+		char: Ichirin_Kumoi,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Nitori
+
+	Quote {
+		text: "Don't the masks become stinky?",
+		char: Ichirin_Kumoi,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Kokoro
+
+	Quote {
+		text: "That kettle of yours, could I borrow it? Forever?",
+		char: Byakuren_Hijiri,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Mamizou
+
+	Quote {
+		text: "The nuns of old shaved their heads, you know?",
+		char: Mononobe_no_Futo,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Byakuren
+
+	Quote {
+		text: "Is the gentleman over there not going to say anything?",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Ichirin
+
+	Quote {
+		text: "The prices for those plates aren't a funny matter.",
+		char: Toyosatomimi_no_Miko,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Futo
+
+	Quote {
+		text: "Do you need a new broom? It's the same price as it was 30 years ago.",
+		char: Nitori_Kawashiro,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Marisa
+
+	Quote {
+		text: "Shall we exchange your hat with mine?",
+		char: Koishi_Komeiji,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Marisa
+
+	Quote {
+		text: "Why are you covering your ears? You feel cold?",
+		char: Koishi_Komeiji,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Miko
+
+	Quote {
+		text: "You've been a bad person♪",
+		char: Koishi_Komeiji,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against herself
+
+	Quote {
+		text: "Tanuki and kitsune don't go well together, do they? Which one tastes better?",
+		char: Koishi_Komeiji,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Mamizou
+
+	Quote {
+		text: "The sword you carry is a decoration? Somehow it smells like it could make a lot of money.",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Miko
+
+	Quote {
+		text: "Oh, you even have a tanuki mask. Wonder what emotion is it? \"The face when making immoral scams\" ...I see",
+		char: Mamizou_Futatsuiwa,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Kokoro
+
+	Quote {
+		text: "Hey, hey. This is the face for pretending to be a plate spinner~ (surprised mask).",
+		char: Hata_no_Kokoro,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Futo
+
+	Quote {
+		text: "Hey, hey. This is the face for pretending to be a tanuki~ (fox mask).",
+		char: Hata_no_Kokoro,
+		src: Some("Hopeless Masquerade"),
+		..Quote::default()
+	},
+	// TODO: when: Win against Mamizou
+
+	// Double Dealing Character
+
+	Quote {
+		text: "Great, now the purification rod smells like animal...",
+		char: Reimu_Hakurei,
+		src: Some("Double Dealing Character"),
+		whom_to: Some(Kagerou_Imaizumi),
+		..Quote::default()
+	},
+	Quote {
+		text: "Sashimi...tempura...Nah, that's not it.",
+		char: Marisa_Kirisame,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	// TODO: when: defeated Wakasagihime
+
+	Quote {
+		text: "She was just a half-fish after all. No big deal. Wouldn't she be stronger if she were all fish?",
+		char: Marisa_Kirisame,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Now, then... The punishment for bad girls is death.",
+		char: Marisa_Kirisame,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Hmm, probably. That glossy hair does look pretty flammable.",
+		char: Marisa_Kirisame,
+		src: Some("Double Dealing Character"),
+		whom_to: Some(Kagerou_Imaizumi),
+		..Quote::default()
+	},
+	Quote {
+		text: "It seems peace in Gensokyo is like the Tower of Babel upon sand.",
+		char: Sakuya_Izayoi,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I felt like cutting something, such as a neck...",
+		char: Sakuya_Izayoi,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes, if you behave yourself, no one will hurt you... Except for the shrine maiden.",
+		char: Sakuya_Izayoi,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I will show no mercy to those who want to plunge Gensokyo into chaos.",
+		char: Sakuya_Izayoi,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Eek, my cuticles!",
+		char: Kagerou_Imaizumi,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "It's always been my dream to fight against a human and win, you know.",
+		char: Yatsuhashi_Tsukumo,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "We are a force of resistance. We will overturn society and re-draw the political borders of Gensokyo! It doesn't have much to do with you, since you humans will end up under our heels.",
+		char: Seija_Kijin,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "None of you understand how much we, the weak, have been oppressed. So... In this inverted castle where everything is turned upside-down, I'll give you a taste of the humiliation the weak have suffered!",
+		char: Seija_Kijin,
+		src: Some("Double Dealing Character"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Actually, ya did surprise me there when your head took off.",
+		char: Marisa_Kirisame,
+		src: Some("whom_to: Sekibanki"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do you want to see me do that again?",
+		char: Sekibanki,
+		src: Some("whom_to: Marisa Kirisame"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Wh-What's with you? You're actually strong!",
+		char: Sekibanki,
+		src: Some("whom_to: Marisa Kirisame"),
+		..Quote::default()
+	},
+	Quote {
+		text: "'Course I am. If I were weak, I'd be sleepin' at home.",
+		char: Marisa_Kirisame,
+		src: Some("whom_to: Sekibanki"),
+		..Quote::default()
+	},
+	Quote {
+		text: "A mermaid in the lake? Do you mean Wakasagihime?",
+		char: Kagerou_Imaizumi,
+		src: Some("whom_to: Marisa Kirisame"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yeah. Do ya know each other?",
+		char: Marisa_Kirisame,
+		src: Some("whom_to: Kagerou Imaizumi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Somewhat, thanks to the grassroots youkai network. Though I also tried to eat her once by mistake.",
+		char: Kagerou_Imaizumi,
+		src: Some("whom_to: Marisa Kirisame"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Did I even once say that I was weak? But... My expectations were off.",
+		char: Sakuya_Izayoi,
+		src: Some("whom_to: Sekibanki"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Wh-What do you mean?",
+		char: Sekibanki,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Because I never needed to cut off your neck at all.",
+		char: Sakuya_Izayoi,
+		src: Some("whom_to: Sekibanki"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Gyah!",
+		char: Sekibanki,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Do you think you can defeat me?",
+		char: Kagerou_Imaizumi,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Yes, I believe I can.",
+		char: Sakuya_Izayoi,
+		src: Some("whom_to: Kagerou Imaizumi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "O-Oh, a quick answer.",
+		char: Kagerou_Imaizumi,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+
+
+	Quote {
+		text: "Who should it be but a wolfman!",
+		char: Sakuya_Izayoi,
+		src: Some("whom_to: Kagerou Imaizumi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I'm a wolf-woman!",
+		char: Kagerou_Imaizumi,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Well, either way. Your blood will coat my knife.",
+		char: Sakuya_Izayoi,
+		src: Some("whom_to: Kagerou Imaizumi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Eek!",
+		char: Kagerou_Imaizumi,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "The drummers in the outside world have a saying. \"Awaken your caveman spirit, for it doesn't need brains to beat a drum!\"",
+		char: Raiko_Horikawa,
+		src: Some("whom_to: Reimu Hakurei"),
+		..Quote::default()
+	},
+	Quote {
+		text: "Huh...The outside world seems barbaric.",
+		char: Reimu_Hakurei,
+		src: Some("whom_to: Raiko Horikawa"),
+		..Quote::default()
+	},
+	Quote {
+		text: "I don't want to go back to a life of being hit and stepped on.",
+		char: Raiko_Horikawa,
+		src: Some("whom_to: Sakuya Izayoi"),
+		..Quote::default()
+	},
+	Quote {
+		text: "You are a drum, yes? How could you not want to be hit?",
+		char: Sakuya_Izayoi,
+		src: Some("whom_to: Raiko Horikawa"),
 		..Quote::default()
 	},
 ];

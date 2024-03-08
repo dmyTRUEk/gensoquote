@@ -1,4 +1,8 @@
+//
+//
 // src: https://en.touhouwiki.net/wiki/Characters
+//
+//
 
 //
 // Protagonists
@@ -133,6 +137,7 @@ Is the person in front of me the edible kind?
 Rumia
 Embodiment of Scarlet Devil, Stage 1
 
+// TODO: fix/recheck?
 Have you ever heard the saying good medicine tastes bad\"?\"
 Reimu Hakurei
 Embodiment of Scarlet Devil, Stage 1
@@ -742,3 +747,2501 @@ In Gensokyo, youkai are the enemies of humanity. This rule must be upheld as an 
 Hieda no Akyuu
 Forbidden Scrollery Chapter 19
 whom_to: Kosuzu Motoori
+
+
+
+//
+//
+// src: https://touhou.fandom.com/wiki/Highly_Responsive_to_Quotes
+//
+//
+
+// Highly Responsive to Prayers
+
+Eh, whatever. If I use this Yin-Yang orb well enough, it'll all work out, right?
+Reimu Hakurei
+Highly Responsive to Prayers
+
+// Story of Eastern Wonderland
+
+Train? That's fine and well, but it's time for a good long nap.
+Reimu Hakurei
+Story of Eastern Wonderland
+
+Whaaat, a human? She's getting such a beatdown!
+Reimu Hakurei
+Story of Eastern Wonderland
+
+Uhhh... Do we have to fight? 'Cause I'd rather not.
+Reimu Hakurei
+Story of Eastern Wonderland
+
+I did it! ...huh? Uh-oh... she's not moving. Oh well, time for the burial rites...
+Reimu Hakurei
+Story of Eastern Wonderland
+
+Oh, who cares about some cheap, middle-of-nowhere shrine.
+Mima
+Story of Eastern Wonderland
+
+Ugh!!... This level... already... Impossible... Uwaaaaahhh!!
+Mima
+Story of Eastern Wonderland
+
+So, just be a good girl and blow up, thank you.
+Rika
+Story of Eastern Wonderland
+
+Just die. And if you won't die, just go away!!
+Rika
+Story of Eastern Wonderland
+
+I am not a \"suspicious character\"!! All of the monsters in this place were created by me!!
+Rika
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+... And that's not suspicious to you?!
+Reimu Hakurei
+Story of Eastern Wonderland
+whom_to: Rika
+
+Stupid girl!! It's not YOU I want!! Just your POWER!!
+Meira
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+...
+Genjii
+Story of Eastern Wonderland
+
+My power? I don't get it.
+Reimu Hakurei
+Story of Eastern Wonderland
+whom_to: Meira
+
+I'm a woman, damn it!! What is wrong with you?!
+Meira
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+So~o, if I win... well, let's just say that certain conditions will have to be met...
+Reimu Hakurei
+Story of Eastern Wonderland
+whom_to: Meira
+
+Je~ez, that was sca~ry!
+Reimu Hakurei
+Story of Eastern Wonderland
+whom_to: Genjii
+
+M'lady, please don't speak in that odd tone again.
+Genjii
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+It's been a while.
+Rika
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+From the first level...?
+Reimu Hakurei
+Story of Eastern Wonderland
+whom_to: Rika
+
+You remember, then?
+Rika
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+Small Fry.
+Reimu Hakurei
+Story of Eastern Wonderland
+whom_to: Rika
+
+I'm a boss!!
+Rika
+Story of Eastern Wonderland
+whom_to: Reimu Hakurei
+
+// Phantasmagoria of Dim.Dream
+
+Ufu, ufu, ufufufufufufufu-
+Marisa Kirisame
+Phantasmagoria of Dim.Dream
+
+Uhu, uhu, uhuhuhuhuhuhuhu~
+Marisa Kirisame
+Phantasmagoria of Dim.Dream
+
+Hmhmhmhmhm.
+Marisa Kirisame
+Phantasmagoria of Dim.Dream
+
+// TODO: *sweatdrop*? here and later
+Ahahahahahaha (sweatdrop)
+Marisa Kirisame
+Phantasmagoria of Dim.Dream
+
+Ahaha~
+Marisa Kirisame
+Phantasmagoria of Dim.Dream
+
+You will die.
+Mima
+Phantasmagoria of Dim.Dream
+
+I want to take you home and make you my guinea pig, and learn all the secrets of your power and make it mine!!
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+
+Oh, a real shrine maiden? How wonderful.
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+
+Oh, an evil spirit? Wonderful!
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+
+Oh, a real magician? How wonderful!
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+
+Oh, a real witch? How wonderful.
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+
+I don't know what you are, but you were pretty amazing too.
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+
+Do as I say, if you value your life.
+Chiyuri Kitashirakawa
+Phantasmagoria of Dim.Dream
+whom_to: Mima
+
+No. ♥
+Mima
+Phantasmagoria of Dim.Dream
+whom_to: Chiyuri Kitashirakawa
+
+......... (sweatdrop)
+Chiyuri Kitashirakawa
+Phantasmagoria of Dim.Dream
+whom_to: Mima
+
+Whatever, I won't lose! Let's go!
+Reimu Hakurei
+Phantasmagoria of Dim.Dream
+whom_to: Yumemi Okazaki
+
+Just a minute. I need to change into something more suitable for battle.
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+whom_to: Reimu Hakurei
+
+You have no dramatic sense at all~
+Reimu Hakurei
+Phantasmagoria of Dim.Dream
+whom_to: Yumemi Okazaki
+
+Okay, let's proceed.
+Yumemi Okazaki
+Phantasmagoria of Dim.Dream
+whom_to: Reimu Hakurei
+
+All you did was add a cape...
+Chiyuri Kitashirakawa
+Phantasmagoria of Dim.Dream
+whom_to: Yumemi Okazaki
+
+// Lotus Land Story
+
+...Huh? Was I off? Guessing isn't gonna work after all (sweat).
+Reimu Hakurei
+Lotus Land Story
+
+If it's going to bring me a boring life, I'd rather die!
+Marisa Kirisame
+Lotus Land Story
+
+I'll bang, shoot, and pop your head off!
+Orange
+Lotus Land Story
+
+Who, now?
+Orange
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+I was looking for youkai.
+Reimu Hakurei
+Lotus Land Story
+whom_to: Orange
+
+And?
+Orange
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+Obliteration.
+Reimu Hakurei
+Lotus Land Story
+whom_to: Orange
+
+I'm the guardian here, Elly.
+Elly
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+And?
+Reimu Hakurei
+Lotus Land Story
+whom_to: Elly
+
+Yes?
+Elly
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+We're going to fight right?
+Reimu Hakurei
+Lotus Land Story
+whom_to: Elly
+
+W-well, yes (sweat)
+Elly
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+In a few hours, you'll become a mist of atoms ♥
+Yuuka Kazami
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+Eeeh!?
+Reimu Hakurei
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+And,
+Yuuka Kazami
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+And?
+Reimu Hakurei
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+// TODO: remove dot at end, like the quote above?
+I thought it'd be neat if that actually happened ♥.
+Yuuka Kazami
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+Hey!!
+Reimu Hakurei
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+There's no way you're getting away from me!! I'll chase you all the way to hell!!
+Reimu Hakurei
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+I'm not from hell!!
+Yuuka Kazami
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+W-whatever, you're not getting away!!
+Reimu Hakurei
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+Farewell, Reimu. I pray for your happiness in the next world.
+Marisa Kirisame
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+Don't just kill me off (angry)
+Reimu Hakurei
+Lotus Land Story
+whom_to: Marisa Kirisame
+
+Whoops ♥
+Marisa Kirisame
+Lotus Land Story
+whom_to: Reimu Hakurei
+
+I caught up!
+Marisa Kirisame
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+Oh? And who might you be?
+Yuuka Kazami
+Lotus Land Story
+whom_to: Marisa Kirisame
+
+We just met!!
+Marisa Kirisame
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+Just kidding ♥ And?
+Yuuka Kazami
+Lotus Land Story
+whom_to: Marisa Kirisame
+
+Don't \"And?\" me!!
+Marisa Kirisame
+Lotus Land Story
+whom_to: Yuuka Kazami
+
+Who might you be?
+Mugetsu
+Lotus Land Story
+whom_to: Marisa Kirisame
+
+Good question, who might I be?
+Marisa Kirisame
+Lotus Land Story
+whom_to: Mugetsu
+
+... (angry)
+Mugetsu
+Lotus Land Story
+whom_to: Marisa Kirisame
+
+// Mystic Square
+
+I just don't think about losing.
+Marisa Kirisame
+Mystic Square
+
+If I'm fighting you with parlor tricks, then you'll have no excuse for losing, will you?
+Marisa Kirisame
+Mystic Square
+
+Do you regret fighting me?
+Mima
+Mystic Square
+
+Hm, you were just as strong as you said. Which isn't strong enough.
+Mima
+Mystic Square
+
+Ah~ I don't usually remember every single face of the small fries I encounter. ♥
+Mima
+Mystic Square
+
+Hm, something smells weak~
+Yuuka Kazami
+Mystic Square
+
+Genocide is just another game. It doesn't matter if it's humans or Makai residents.
+Yuuka Kazami
+Mystic Square
+
+It doesn't matter if you're a god, power is everything!
+Yuuka Kazami
+Mystic Square
+
+Using so much magic doesn't make you any cooler, you know!!
+Alice Margatroid
+Mystic Square
+
+Are you ignoring me?
+Sara
+Mystic Square
+whom_to: Reimu Hakurei
+
+No way~, I just have to beat you up is all♪
+Reimu Hakurei
+Mystic Square
+whom_to: Sara
+
+Do you think you can actually defeat both of us?
+Yuki
+Mystic Square
+whom_to: Reimu Hakurei
+
+・・・・・・・・・・・・
+Mai
+Mystic Square
+
+I wonder how someone could really lose♪
+Reimu Hakurei
+Mystic Square
+whom_to: Yuki
+
+I was already aware that you would be coming.
+Shinki
+Mystic Square
+whom_to: Reimu Hakurei
+
+I think I was just flying all over the place without a goal, though...(sweat)
+Reimu Hakurei
+Mystic Square
+whom_to: Shinki
+
+A shrine maiden is nothing more than a dog of the gods.
+Shinki
+Mystic Square
+whom_to: Reimu Hakurei
+
+Er, well (sweat)
+Reimu Hakurei
+Mystic Square
+whom_to: Shinki
+
+What is your purpose here?
+Shinki
+Mystic Square
+whom_to: Marisa Kirisame
+
+I dunno, sightseeing? (sweat)
+Marisa Kirisame
+Mystic Square
+whom_to: Shinki
+
+You've been a little too violent for me to believe that.
+Shinki
+Mystic Square
+whom_to: Marisa Kirisame
+
+You're in my way.
+Mima
+Mystic Square
+whom_to: Sara
+
+I'm no pushover♪
+Sara
+Mystic Square
+whom_to: Mima
+
+Yes you are♪
+Mima
+Mystic Square
+whom_to: Sara
+
+You'll regret that!!
+Sara
+Mystic Square
+whom_to: Mima
+
+You don't look human...
+Louise
+Mystic Square
+whom_to: Mima
+
+I am! ♥ (lies)
+Mima
+Mystic Square
+whom_to: Louise
+
+I'll lead you to a place where you can rest forever ♥
+Yuki
+Mystic Square
+whom_to: Mima
+
+I'm sorry, but I'm afraid I just came from that world ...
+Mima
+Mystic Square
+whom_to: Yuki
+
+... !? I see, well, then ...
+Mai
+Mystic Square
+// whom_to: TODO
+
+？
+Yuki
+Mystic Square
+whom_to: Mima
+
+You see, that means I'll be the one to lead you there ...
+Mima
+Mystic Square
+whom_to: Yuki
+
+I'll cleanse you of your sins.
+Yumeko
+Mystic Square
+whom_to: Mima
+
+I don't know, I just might commit a few more here...
+Mima
+Mystic Square
+whom_to: Yumeko
+
+Well, whatever shall I do? This is first contact.
+Yuuka Kazami
+Mystic Square
+whom_to: Louise
+
+Am I an alien ... ?
+Louise
+Mystic Square
+whom_to: Yuuka Kazami
+
+It's been a while.
+Alice Margatroid
+Mystic Square
+whom_to: Reimu Hakurei
+
+Have I met you before?
+Reimu Hakurei
+Mystic Square
+whom_to: Alice Margatroid
+
+I've come here just so I can beat you!
+Alice Margatroid
+Mystic Square
+whom_to: Reimu Hakurei
+
+I appreciate the effort.
+Reimu Hakurei
+Mystic Square
+whom_to: Alice Margatroid
+
+I have a magic book containing the ultimate witchcraft techniques.
+Alice Margatroid
+Mystic Square
+whom_to: Marisa Kirisame
+
+Ooh, I want that.
+Marisa Kirisame
+Mystic Square
+whom_to: Alice Margatroid
+
+I could never allow humans like you to use this sort of magic.
+Alice Margatroid
+Mystic Square
+whom_to: Marisa Kirisame
+
+Oh? Well, I wouldn't mind just looking...
+Marisa Kirisame
+Mystic Square
+whom_to: Alice Margatroid
+
+It's been a long time.
+Alice Margatroid
+Mystic Square
+whom_to: Yuuka Kazami
+
+A long time indeed. ♥ What brings you here?
+Yuuka Kazami
+Mystic Square
+whom_to: Alice Margatroid
+
+? I have come here especially in order to defeat you!
+Alice Margatroid
+Mystic Square
+whom_to: Yuuka Kazami
+
+By the way, who are you?
+Yuuka Kazami
+Mystic Square
+whom_to: Alice Margatroid
+
+(Angry) (Ignores)
+Alice Margatroid
+Mystic Square
+whom_to: Yuuka Kazami
+
+// Embodiment of Scarlet Devil
+
+Have you heard the saying, \"Good medicine tastes bad\"
+Reimu Hakurei
+Embodiment of Scarlet Devil
+
+Well, you wouldn't know if it's good medicine or not unless you drank it for yourself.
+Reimu Hakurei
+Embodiment of Scarlet Devil
+
+Do any creatures outside of humans even have 10 fingers?
+Marisa Kirisame
+Embodiment of Scarlet Devil
+
+I'm really tasty.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+
+Oh, me? Lessee, I'm Reimu Hakurei. Shrine maiden.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+
+(Maybe I shoulda said nurse?)
+Marisa Kirisame
+Embodiment of Scarlet Devil
+
+Unfortunately, I'm pretty good at dodging.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+
+Oh, is that so...
+Rumia
+Embodiment of Scarlet Devil
+
+Are you the kind of person I can eat?
+Rumia
+Embodiment of Scarlet Devil
+
+When you lose your way, you can blame the fairies.
+Cirno
+Embodiment of Scarlet Devil
+
+I'll cryo-freeze you together with some English beef!
+Cirno
+Embodiment of Scarlet Devil
+
+I'm a normal person who just guards.
+Hong Meiling
+Embodiment of Scarlet Devil
+
+I heard shrine maidens are the ones you're allowed to eat.
+Hong Meiling
+Embodiment of Scarlet Devil
+
+You, clothed in red and white! Don't cause problems in my study.
+Patchouli Knowledge
+Embodiment of Scarlet Devil
+
+I don't have time for this~ The little sister, and now you - What kind of day is this?!
+Patchouli Knowledge
+Embodiment of Scarlet Devil
+
+Come back two hours earlier.
+Sakuya Izayoi
+Embodiment of Scarlet Devil
+
+Your time is mine...
+Sakuya Izayoi
+Embodiment of Scarlet Devil
+
+I've got to at least make you waste a bomb before the mistress gets mad at me~
+Sakuya Izayoi
+Embodiment of Scarlet Devil
+
+The moon tonight is red. You will know death.
+Remilia Scarlet
+Embodiment of Scarlet Devil
+
+Can you remember how many slices of bread you have eaten until now?
+Remilia Scarlet
+Embodiment of Scarlet Devil
+
+I've never seen humans as anything else but a drink.
+Flandre Scarlet
+Embodiment of Scarlet Devil
+
+Stop following me already~
+Hong Meiling
+Embodiment of Scarlet Devil
+whom_to: Reimu Hakurei
+
+Thanks for leading the way~
+Reimu Hakurei
+Embodiment of Scarlet Devil
+whom_to: Hong Meiling
+
+...I've heard that shrine maidens make for good eating...
+Hong Meiling
+Embodiment of Scarlet Devil
+whom_to: Reimu Hakurei
+
+Don't spread rumors like that!
+Reimu Hakurei
+Embodiment of Scarlet Devil
+whom_to: Hong Meiling
+
+The books here are worth all the donations your shrine has received over the past five years.
+Patchouli Knowledge
+Embodiment of Scarlet Devil
+whom_to: Reimu Hakurei
+
+My shrine rarely has any visitors during the year.
+Reimu Hakurei
+Embodiment of Scarlet Devil
+whom_to: Patchouli Knowledge
+
+Oh. Then they're not worth much.
+Patchouli Knowledge
+Embodiment of Scarlet Devil
+whom_to: Reimu Hakurei
+
+Isn't this something like 'The saint was crucified on the cross'?
+Rumia
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+Looks more to me like 'Man uses the decimal system.'
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Rumia
+
+Whoa, so many books. I'll just borrow some later.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Patchouli Knowledge
+
+Don't take any books, please.
+Patchouli Knowledge
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+I'm gonna take 'em.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Patchouli Knowledge
+
+Let's see, 'How to passively defeat the person in black in front of you ...'
+Patchouli Knowledge
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+(That actually written in there?)
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Patchouli Knowledge
+
+Oh my, magicians are actually more in need of mercy.
+Sakuya Izayoi
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+Have mercy.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Sakuya Izayoi
+
+It's so hot, I'm gonna die here.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Reimu Hakurei
+
+If you die, I'll feed your corpse to the birds.
+Reimu Hakurei
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+My, it'd be fine if you'd let me take care of that.
+Remilia Scarlet
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+That's a definite no.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Remilia Scarlet
+
+I've been in the basement. For about 495 years.
+Flandre Scarlet
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+That's sweet, I only get weekends off.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Flandre Scarlet
+
+Looks like it's going to be a fun night.
+Remilia Scarlet
+Embodiment of Scarlet Devil
+whom_to: Reimu Hakurei
+
+Looks like it's going to be a long night.
+Reimu Hakurei
+Embodiment of Scarlet Devil
+whom_to: Remilia Scarlet
+
+One coin? You can't buy a life with that.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Flandre Scarlet
+
+I meant you can't use a continue!
+Flandre Scarlet
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+How many people’s blood have you sucked until now?
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Remilia Scarlet
+
+How many slices of bread have you eaten until now?
+Remilia Scarlet
+Embodiment of Scarlet Devil
+whom_to: Marisa Kirisame
+
+Thirteen. I prefer Japanese food.
+Marisa Kirisame
+Embodiment of Scarlet Devil
+whom_to: Remilia Scarlet
+
+// Perfect Cherry Blossom
+
+Hold on, if you sleep in this cold I'll kill you.
+Marisa Kirisame
+Perfect Cherry Blossom
+
+That was a pointless encounter with a pointless person.
+Marisa Kirisame
+Perfect Cherry Blossom
+
+I killed some lively and exciting guys on my way up here...
+Marisa Kirisame
+Perfect Cherry Blossom
+
+If you can only sleep in warm weather, then you're like us and the Asebi flowers.
+Letty Whiterock
+Perfect Cherry Blossom
+
+Silly shrine maiden, your two-colored powers are a mere twenty-eight-point-five-seven-one-four percent as powerful as mine!
+Alice Margatroid
+Perfect Cherry Blossom
+
+Unwanted noise like you should be drowned out.
+Lunasa Prismriver
+Perfect Cherry Blossom
+
+Well then, let's start the performance! Sisters, get ready!
+Lyrica Prismriver
+Perfect Cherry Blossom
+
+Being here in this place is equal to being dead.
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+
+I am leagues different from Chen. Leagues, columns, digits, and colors.
+Ran Yakumo
+Perfect Cherry Blossom
+
+Here, in Hakugyokurou where we stand, the border between youkai and humans wears thin. You came this far, and were able to cross over from the human side.
+Yukari Yakumo
+Perfect Cherry Blossom
+
+You mean noctambulism? That’s my hobby too.
+Yukari Yakumo
+Perfect Cherry Blossom
+
+I’m still in bad shape as I’ve just awakened from my hibernation.
+Yukari Yakumo
+Perfect Cherry Blossom
+
+I never expected anyone could make their way through~
+Yukari Yakumo
+Perfect Cherry Blossom
+
+Stronger how exactly? Financially?
+Sakuya Izayoi
+Perfect Cherry Blossom
+
+Sorry I can’t give you my autograph.
+Sakuya Izayoi
+Perfect Cherry Blossom
+
+By the way, I hear that Mayohiga's items give you good fortune if you take them home...
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Chen
+
+Yeah, that's true.
+Chen
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+Then let the plundering begin!
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Chen
+
+Uh... what? This is our home. Get out of here now!
+Chen
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+// TODO: fix/recheck?
+So what happened to You can't leave once you wander in\"?\"
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Chen
+
+Hey, I have business here. I'm not going home yet.
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Lunasa Prismriver
+
+Nobody's telling you to go home.
+Lunasa Prismriver
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+You're quite a talkative ghost.
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Youmu Konpaku
+
+I'm half non-ghost, you know!
+Youmu Konpaku
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+That's what needed correction?
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Youmu Konpaku
+
+Are you even listening to me? I'm going to cut you down here, and you'll meet your end.
+Youmu Konpaku
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+If I die in the land of the dead, would I be sent to the land of the dead again?
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Youmu Konpaku
+
+I'll send you to hell!
+Youmu Konpaku
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+You like the flowers, do you? We do have a few empty places at the party...
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+Oh, really? Well then, let's go have a look.
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+You still are not invited, dear.
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+Just what is the Saigyou Ayakashi?
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+Our youkai cherry tree. We still don't have enough spring to break the seal on its blossom.
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+Well, if it's been intentionally sealed up, It's probably better not to mess with it, right? Besides, we don't know what's sealed in it.
+Reimu Hakurei
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+How can you say that after breaching through our barrier?
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Reimu Hakurei
+
+Wanderer, to have arrived at this place, you must surely have lost your way?
+Chen
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+I never had a way.
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Chen
+
+Do you find this brutal evening likable?
+Alice Margatroid
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+It isn't bad.
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Alice Margatroid
+
+Then surely you are a magician of the untamed fields.
+Alice Margatroid
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+As opposed to a magician from a greenhouse?
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Alice Margatroid
+
+So who are you?
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Lyrica Prismriver
+
+It doesn't matter, does it?
+Lyrica Prismriver
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+Yeah, I guess it doesn't.
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Lyrica Prismriver
+
+So are you gonna tell me how to open the gate?
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Prismriver Sisters
+// TODO: when: after defeating the Prismrivers
+
+We don't, we just fly over it...
+Prismriver Sisters
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+Oh.
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Prismriver Sisters
+
+Are you listening to me?
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+I am. You're saying that when you die, you want to die beneath a cherry tree?
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+Not... exactly, no.
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+Are you smelling with your eyes?
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+Not exactly. Damn, this is a boring way to start spring.
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+You are rude. The spring that you feel here is none other than the spring of your Gensokyo.
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+That's rude. What kind of person can smell with their eyes?
+Marisa Kirisame
+Perfect Cherry Blossom
+whom_to: Yuyuko Saigyouji
+
+You're lagging behind in the conversation.
+Yuyuko Saigyouji
+Perfect Cherry Blossom
+whom_to: Marisa Kirisame
+
+Why don't you worry about yourself if you have time to worry about others?
+Alice Margatroid
+Perfect Cherry Blossom
+whom_to: Sakuya Izayoi
+
+Oh yes, I'm worried about myself now.
+Sakuya Izayoi
+Perfect Cherry Blossom
+whom_to: Alice Margatroid
+
+So, for what reason do you worry? About yourself.
+Alice Margatroid
+Perfect Cherry Blossom
+whom_to: Sakuya Izayoi
+
+Because I'm carrying only three changes of clothes. For myself.
+Sakuya Izayoi
+Perfect Cherry Blossom
+whom_to: Alice Margatroid
+
+Ah, good reason.
+Alice Margatroid
+Perfect Cherry Blossom
+whom_to: Sakuya Izayoi
+
+That, and a spare set of knives too.
+Sakuya Izayoi
+Perfect Cherry Blossom
+whom_to: Alice Margatroid
+
+Ah, I... KNIVES?
+Alice Margatroid
+Perfect Cherry Blossom
+whom_to: Sakuya Izayoi
+
+Dog meat, dog meat!
+Prismriver Sisters
+Perfect Cherry Blossom
+whom_to: Sakuya Izayoi
+
+Human meat!
+Sakuya Izayoi
+Perfect Cherry Blossom
+whom_to: Prismriver Sisters
+
+And who is that?
+Merlin Prismriver
+Perfect Cherry Blossom
+
+An ascending air current.
+Lunasa Prismriver
+Perfect Cherry Blossom
+
+Our natural enemy!!
+Lyrica Prismriver
+Perfect Cherry Blossom
+
+// Imperishable Night
+
+Okay, okay, I give up. You're right. The endless night, stealing the full moon, Hiding the human village, and putting hats on stone statues, It's all Alice's fault. Now, bitch, get out of the way!
+Marisa Kirisame
+Imperishable Night
+
+Move and I'll shoot!! I messed up. I mean, shoot and I'll move. In a flash.
+Marisa Kirisame
+Imperishable Night
+
+Okay, so I take that back. Youkai must still be crushed by humans. It is my destiny. I will continue to crush Youkai.
+Reimu Hakurei
+Imperishable Night
+
+You're too late.
+Reisen Udongein Inaba
+Imperishable Night
+
+I've sealed all the doors. You can't take the princess away now, can you?
+Reisen Udongein Inaba
+Imperishable Night
+
+My god, jelly donuts are so scary.
+Fujiwara no Mokou
+Imperishable Night
+
+Hey, hey, hey. You've got some guts, not being bugged in the slightest. I hope you've got the determination to match that!
+Wriggle Nightbug
+Imperishable Night
+whom_to: Reimu Hakurei
+
+Was that a pun?
+Reimu Hakurei
+Imperishable Night
+whom_to: Wriggle Nightbug
+
+So, these are full-moon-beams... I can't see them, but I can feel them.
+Marisa Kirisame
+Imperishable Night
+whom_to: Alice Margatroid
+
+Ordinary people would go insane in less than five seconds. Are you okay, Marisa?
+Alice Margatroid
+Imperishable Night
+whom_to: Marisa Kirisame
+
+Yeah, I'm insane to begin with.
+Marisa Kirisame
+Imperishable Night
+whom_to: Alice Margatroid
+
+
+Hold on for a moment. A small bone got stuck in my throat...
+Yuyuko Saigyouji
+Imperishable Night
+whom_to: Youmu Konpaku
+
+Wait, didn't you just say you didn't like sparrows?
+Youmu Konpaku
+Imperishable Night
+whom_to: Yuyuko Saigyouji
+
+Youmu, it's not good to be so fussy.
+Yuyuko Saigyouji
+Imperishable Night
+whom_to: Youmu Konpaku
+
+// ?
+// (Despite being eaten by a ghost, Mystia returns in Phantasmagoria of Flower View.)
+
+See, bookworms can be useful. The mansion doesn't need any more of them, though.
+Sakuya Izayoi
+Imperishable Night
+whom_to: Remilia Scarlet
+
+Our mansion's bookworm really is a bookworm, so she's hardly useful at all...
+Remilia Scarlet
+Imperishable Night
+whom_to: Sakuya Izayoi
+
+Ah, it's an illusion. I wonder if that absurdly long corridor was also an illusion.
+Sakuya Izayoi
+Imperishable Night
+// whom_to: TODO
+
+It seems like an illusion. With such a long corridor, any cleaning mop wouldn't stand a chance.
+Remilia Scarlet
+Imperishable Night
+// whom_to: TODO
+
+Well, I guess you'd need a wet rag, not a mop. It would give you a backache, though.
+Sakuya Izayoi
+Imperishable Night
+// whom_to: TODO
+
+What a pointless thing to worry about. It's an illusion. An illusion.
+Eirin Yagokoro
+Imperishable Night
+// whom_to: TODO
+
+// Phantasmagoria of Flower View
+
+Froggy, froggy~ he's forgotten spring and is still sleeping, sleeping.
+Cirno
+Phantasmagoria of Flower View
+
+When I cool a frog it sleeps and doesn't wake it. Really fun.
+Cirno
+Phantasmagoria of Flower View
+
+Your destination is in ice.
+Cirno
+Phantasmagoria of Flower View
+
+Freeze to death! Freeze to death!
+Cirno
+Phantasmagoria of Flower View
+
+Look! Freezing falling cherry blossoms is cool!
+Cirno
+Phantasmagoria of Flower View
+
+I learned something. Above the clouds, ice tends to stick to me, so I should try to avoid coming here.
+Cirno
+Phantasmagoria of Flower View
+
+I'm the strongest!
+Cirno
+Phantasmagoria of Flower View
+
+Yeah. I'm the best.
+Cirno
+Phantasmagoria of Flower View
+
+A professional doesn't choose their songs.
+Mystia Lorelei
+Phantasmagoria of Flower View
+
+Mind if I take a rabbit's foot with me? As a good luck charm.
+Reimu Hakurei
+Phantasmagoria of Flower View
+whom_to: Tewi Inaba
+
+That's not the problem! If I leave this alone, it'll look like I'm slacking off!
+Reimu Hakurei
+Phantasmagoria of Flower View
+
+Ah, geez, if I don't get this over with soon I'll look like I'm slacking off.
+Reimu Hakurei
+Phantasmagoria of Flower View
+
+Now then, time for a news story!
+Aya Shameimaru
+Phantasmagoria of Flower View
+
+Hmm. I would've been better off taking pictures secretly...
+Aya Shameimaru
+Phantasmagoria of Flower View
+
+Oh dear me, I've accidentally won. And I thought I've held back enough too... Well this isn't any fun.
+Aya Shameimaru
+Phantasmagoria of Flower View
+
+You must be happy. You can die surrounded by poison.
+Medicine Melancholy
+Phantasmagoria of Flower View
+
+For a fairy, it's not a problem if they can't go back, right? How about getting as lost as you want to?
+Tewi Inaba
+Phantasmagoria of Flower View
+
+Er, um, I'll just pretend I didn't see that.
+Komachi Onozuka
+Phantasmagoria of Flower View
+
+I won't show mercy if you're going to interrupt my laid-back work.
+Komachi Onozuka
+Phantasmagoria of Flower View
+
+If you're going to commit suicide then I'll kill you.
+Komachi Onozuka
+Phantasmagoria of Flower View
+
+Now then, back to work, I'll get in trouble if I play around too much.
+Komachi Onozuka
+Phantasmagoria of Flower View
+
+Are you slacking off!? Komachi!
+Eiki Shiki
+Phantasmagoria of Flower View
+
+// TODO: *sigh*?
+Sigh. When I first saw Komachi, she seemed like a more diligent person.
+Eiki Shiki
+Phantasmagoria of Flower View
+
+It looks like I still need to lecture you much more.
+Eiki Shiki
+Phantasmagoria of Flower View
+
+Normally, if I just randomly go and fight, the culprit will show themselves in no time!
+Reimu Hakurei
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+That's not something to brag about, though.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Reimu Hakurei
+
+I usually don't let living humans pass but... If they pay the fee, then they're good to go.
+Komachi Onozuka
+Phantasmagoria of Flower View
+whom_to: Reimu Hakurei
+
+I said I'm not crossing. And I don't have any money either.
+Reimu Hakurei
+Phantasmagoria of Flower View
+whom_to: Komachi Onozuka
+
+If you do it now it's 10% off.
+Komachi Onozuka
+Phantasmagoria of Flower View
+whom_to: Reimu Hakurei
+
+If I were in charge of judging you, you have sinned.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Reimu Hakurei
+
+How rude! Exterminating youkai is my job, it can't be helped.
+Reimu Hakurei
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+Ah, a lucky item! How lucky.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Tewi Inaba
+
+I'm not an item ... oh,
+Tewi Inaba
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+But you have not a single clue on the culprit or cause, right? It's pointless to just wander around like that.
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+And why are you doing the same?
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Sakuya Izayoi
+
+Because I can't find a lead on the culprit or cause.
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+You've mistaken me for someone else.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Aya Shameimaru
+
+There was a picture. The newspaper it was in has already been published.
+Aya Shameimaru
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+Secretly taking pictures huh... that's one bad hobby.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Aya Shameimaru
+
+The only humans who come to Muenzuka are ones that want to die.
+Komachi Onozuka
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+Who's the one that wants to die!?
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Komachi Onozuka
+
+Now, now, there are still plenty of enjoyable things in this world. It's ten years too early to say you're dying.
+Komachi Onozuka
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+I don't plan on dying ten years later either.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Komachi Onozuka
+
+Gehgeh, are you saying that in every single flower is a dead human? I accidentally picked some earlier. In bulk.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+Bulk murderers, then.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+It's fine, they can rest in peace this way.
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+If I was the one in charge of judging you, ripping out your tongue would be your sentence.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+Is that it? Maybe I should've prepared a spare tongue?
+Marisa Kirisame
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+Your second tongue will also be ripped out.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Marisa Kirisame
+
+Tomorrow's dish is fried chicken.
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Mystia Lorelei
+
+Tonight's dish is a human maid!
+Mystia Lorelei
+Phantasmagoria of Flower View
+whom_to: Sakuya Izayoi
+
+Higanbana? That's silly. There's no way higanbana would be blooming now...
+Komachi Onozuka
+Phantasmagoria of Flower View
+whom_to: Sakuya Izayoi
+
+It's an outbreak. Try actually looking around yourself.
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Komachi Onozuka
+
+Eeh? What's going on? Higanbana are blooming, and purple cherry blossoms too... Huh? Could this be!?
+Komachi Onozuka
+Phantasmagoria of Flower View
+whom_to: Sakuya Izayoi
+
+Don't you think this flower outbreak needs your attention?
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+Of course, I understand. But that's part of the business I'm in.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Sakuya Izayoi
+
+(A business involving blooming flowers, is this person a florist?)
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+I'm making a close-up report on you, since you seem to be doing something interesting.
+Aya Shameimaru
+Phantasmagoria of Flower View
+whom_to: Youmu Konpaku
+
+Making a close-up report... Does that mean to follow me from behind without permission?
+Youmu Konpaku
+Phantasmagoria of Flower View
+whom_to: Aya Shameimaru
+
+If I told you, you might've stopped doing something interesting. So I quietly stuck on you.
+Aya Shameimaru
+Phantasmagoria of Flower View
+whom_to: Youmu Konpaku
+
+I see, well then, I'll be on my way...
+Reisen Udongein Inaba
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+Ufufu, hold on a second. I want to say something to you.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Reisen Udongein Inaba
+
+Aah. Of course the Yama would...
+Reisen Udongein Inaba
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+What is it? Are you saying that I'll be lecturing to no end?
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Reisen Udongein Inaba
+
+Sorry to frighten you.
+Youmu Konpaku
+Phantasmagoria of Flower View
+whom_to: Cirno
+
+I'm going to beat you for that.
+Cirno
+Phantasmagoria of Flower View
+whom_to: Youmu Konpaku
+
+Ah, idiot sighted. Are you planning to do something bad?
+Reimu Hakurei
+Phantasmagoria of Flower View
+whom_to: Cirno
+
+Of course!
+Cirno
+Phantasmagoria of Flower View
+whom_to: Reimu Hakurei
+
+I ripped a flower or two into pieces!
+Cirno
+Phantasmagoria of Flower View
+whom_to: Reisen Udongein Inaba
+
+Anyone can rip up a flower or two.
+Reisen Udongein Inaba
+Phantasmagoria of Flower View
+whom_to: Cirno
+
+You're so loud in the morning.
+Cirno
+Phantasmagoria of Flower View
+whom_to: Lyrica Prismriver
+
+But I haven't even started my performance yet.
+Lyrica Prismriver
+Phantasmagoria of Flower View
+whom_to: Cirno
+
+You're loud enough just by being here, and now you're saying you'll perform?!
+Cirno
+Phantasmagoria of Flower View
+whom_to: Lyrica Prismriver
+
+Almost to the degree of rareness, the poltergeists appear here.
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Lyrica Prismriver
+
+Plural again~ Get it through, I'm alone today.
+Lyrica Prismriver
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+Oh, then what are the two behind you?
+Eiki Shiki
+Phantasmagoria of Flower View
+whom_to: Lyrica Prismriver
+
+Ah? You're not supposed to say that~
+Lunasa Prismriver
+Phantasmagoria of Flower View
+whom_to: Eiki Shiki
+
+After managing to hide this much too...
+Merlin Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO
+
+Huh!? When did you two end up behind me!?
+Lyrica Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO: Merlin & Lunasa?
+
+We were watching you from the beginning.
+Lunasa Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO: Lyrica or Sikieiki?
+
+You looked like you were doing something interesting, so we did it in secret.
+Merlin Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO: Lyrica or Sikieiki?
+
+There, three noisy spirits. You're going to perform live in this cemetery, aren't you.
+Eiki Shiki
+Phantasmagoria of Flower View
+// whom_to: TODO: Lyrica Lunasa Merlin
+
+What the heck~ If you were going to follow me then tell me from the beginning!
+Lyrica Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO
+
+We were going to come out if it got dangerous.
+Lunasa Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO
+
+Yes, yes. Like right now.
+Merlin Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO
+
+Right now?
+Lyrica Prismriver
+Phantasmagoria of Flower View
+// whom_to: TODO
+
+With this much poison, I could make delicious tea.
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Medicine Melancholy
+
+Delicious tea. You're a strange human.
+Medicine Melancholy
+Phantasmagoria of Flower View
+whom_to: Sakuya Izayoi
+
+Oh, I'm not the one who's going to drink it.
+Sakuya Izayoi
+Phantasmagoria of Flower View
+whom_to: Medicine Melancholy
+
+// Mountain of Faith
+
+I could recite all the digits of pi before I got there!
+Marisa Kirisame
+Mountain of Faith
+
+Gah, a human!?
+Nitori Kawashiro
+Mountain of Faith
+
+Ayayayaya...
+Aya Shameimaru
+Mountain of Faith
+
+Huh? I smell something tasty...
+Reimu Hakurei
+Mountain of Faith
+whom_to: Minoriko Aki
+
+Even though you're a shrine maiden, you want to eat a god? How ridiculous! What insolence!
+Minoriko Aki
+Mountain of Faith
+whom_to: Reimu Hakurei
+
+Who said I was going to eat you? But is that delicious smell coming from you?
+Reimu Hakurei
+Mountain of Faith
+whom_to: Minoriko Aki
+
+I was just trying to be nice and chase you away...
+Hina Kagiyama
+Mountain of Faith
+whom_to: Reimu Hakurei
+
+Chasing me away really isn't that nice.
+Reimu Hakurei
+Mountain of Faith
+whom_to: Hina Kagiyama
+
+This is the Moriya shrine, A long-forgotten shrine of the past. It was moved into Gensokyo together with the lake you see here.
+Sanae Kochiya
+Mountain of Faith
+whom_to: Reimu Hakurei
+
+You moved the shrine and the whole lake? That's pretty flashy.
+Reimu Hakurei
+Mountain of Faith
+whom_to: Sanae Kochiya
+
+// Scarlet Weather Rhapsody
+
+Pisses me off that only the shrine collapsed. It'd be great if your place collapsed too.
+Reimu Hakurei
+Scarlet Weather Rhapsody
+// TODO: when: Win against Sakuya
+
+Tonight is rabbit stew!
+Reimu Hakurei
+Scarlet Weather Rhapsody
+// TODO: when: Win against Reisen
+
+I'm winning 101 matches out of 100 in image training!
+Marisa Kirisame
+Scarlet Weather Rhapsody
+// TODO: when: (Win against herself)
+
+How about have the kappa make you a motor boat? It'd make your job fun.
+Marisa Kirisame
+Scarlet Weather Rhapsody
+// TODO: when: (Win against Komachi)
+
+Your dolls are filled with gunpowder? That's hardcore.
+Sakuya Izayoi
+Scarlet Weather Rhapsody
+// TODO: when: Win against Alice
+
+My underlings are more disciplined than yours.
+Alice Margatroid
+Scarlet Weather Rhapsody
+// TODO: when: Win against Sakuya
+
+Drizzle that humidifies the air is the book's worst enemy. I imagine they get moldy in your house too.
+Patchouli Knowledge
+Scarlet Weather Rhapsody
+// TODO: when: Win against Marisa
+
+Is it really okay for a newspaper reporter to interfere with their photo subjects like that?
+Youmu Konpaku
+Scarlet Weather Rhapsody
+// TODO: when: Win against Aya
+
+Go away, you rainmaker.
+Remilia Scarlet
+Scarlet Weather Rhapsody
+// TODO: when: Win against Marisa
+
+So what if the ground shakes a little? I'll be fine once I'm under a table!
+Remilia Scarlet
+Scarlet Weather Rhapsody
+// TODO: when: Win against Tenshi
+
+Ah, you finished clearing the snow in the manor?
+Yuyuko Saigyouji
+Scarlet Weather Rhapsody
+// TODO: when: Win against Youmu
+
+Fantastic Ninja Art, Clone Technique~
+Yuyuko Saigyouji
+Scarlet Weather Rhapsody
+// TODO: when: Win against herself
+
+Animals that eat nothing but bamboo grass... No way.
+Yuyuko Saigyouji
+Scarlet Weather Rhapsody
+// TODO: when: Win against Reisen
+
+They say that oarfish can grow to be over 18 meters long. You're pretty tiny.
+Yukari Yakumo
+Scarlet Weather Rhapsody
+// TODO: when: Win against Iku
+
+Are you collecting junk? Want me to help? I'm a real junk collector.
+Suika Ibuki
+Scarlet Weather Rhapsody
+// TODO: when: Win against Marisa
+
+Aren't your moves way too flashy? I could probably block you in my sleep.
+Suika Ibuki
+Scarlet Weather Rhapsody
+// TODO: when: Win against Remilia
+
+Hm, I was wondering when you'd be on the move.
+Suika Ibuki
+Scarlet Weather Rhapsody
+// TODO: when: Win against Yukari
+
+Peaches? Hmmm, it's nostalgic.
+Reisen Udongein Inaba
+Scarlet Weather Rhapsody
+// TODO: when: Win against Tenshi
+
+I'm dying to know just how bad the fabled poor cuisine of Heaven is.
+Aya Shameimaru
+Scarlet Weather Rhapsody
+// TODO: when: Win against Tenshi
+
+Extra~ Extra~ Nothing big happened, but it's still an extra!
+Aya Shameimaru
+Scarlet Weather Rhapsody
+// TODO: when: Win against someone
+
+From cooking to washing, cleaning to battling, you're quite hard working.
+Komachi Onozuka
+Scarlet Weather Rhapsody
+// TODO: when: Win against Sakuya
+
+Oh, aren't you...
+Yuyuko Saigyouji
+Scarlet Weather Rhapsody
+whom_to: Iku Nagae
+
+Yes, I'm the messenger from the dragon palace.
+Iku Nagae
+Scarlet Weather Rhapsody
+whom_to: Yuyuko Saigyouji
+
+...famously grilled in soy-sauce, or just grilled plain...
+Yuyuko Saigyouji
+Scarlet Weather Rhapsody
+whom_to: Iku Nagae
+
+Most certainly not.
+Iku Nagae
+Scarlet Weather Rhapsody
+whom_to: Yuyuko Saigyouji
+
+// Subterranean Animism
+
+Aah! The cat turned into a cat!
+Reimu Hakurei
+Subterranean Animism
+
+Is that bird really that strong?
+Reimu Hakurei
+Subterranean Animism
+
+But we don’t even know what god she’s supposed to have eaten.
+Reimu Hakurei
+Subterranean Animism
+
+It's not like I mind beating her, but ... It's kind of hard to have a conversation that way.
+Marisa Kirisame
+Subterranean Animism
+
+What's the power of the sun? Photosynthesis? Sunburn?
+Marisa Kirisame
+Subterranean Animism
+
+She didn't spill a drop of her sake.
+Patchouli Knowledge
+Subterranean Animism
+
+Now, sleep with this trauma that will leave you sleepless!
+Satori Komeiji
+Subterranean Animism
+
+It seems you're here to fight. But it doesn't look like you have a reason for it.
+Satori Komeiji
+Subterranean Animism
+whom_to: Reimu Hakurei
+
+Oh, you catch on pretty quickly. I definitely don't have a good reason.
+Reimu Hakurei
+Subterranean Animism
+whom_to: Satori Komeiji
+
+... ... now you're trying to think of one. ... ... evil spirits, oni? Hot springs? Burglary!?
+Satori Komeiji
+Subterranean Animism
+whom_to: Reimu Hakurei
+
+'Before that, let's search the house....' you think. I won't allow that. Please head to the courtyard immediately.
+Satori Komeiji
+Subterranean Animism
+whom_to: Marisa Kirisame
+
+Damn.
+Marisa Kirisame
+Subterranean Animism
+whom_to: Satori Komeiji
+
+Whew... This is so hot. So hot I could die!
+Marisa Kirisame
+Subterranean Animism
+whom_to: Alice Margatroid
+
+(Are the dolls okay?)
+Alice Margatroid
+Subterranean Animism
+whom_to: Marisa Kirisame
+
+Yeah, but it's so hot I wouldn't be surprised if they burned up.
+Marisa Kirisame
+Subterranean Animism
+whom_to: Alice Margatroid
+
+(I think the dolls themselves will be fine, but it would be bad if the gunpowder inside caught fire.)
+Alice Margatroid
+Subterranean Animism
+whom_to: Marisa Kirisame
+
+Why the hell did you stuff gunpowder in 'em?!
+Marisa Kirisame
+Subterranean Animism
+whom_to: Alice Margatroid
+
+What's wrong? Are you trying to figure out who I am?
+Yuugi Hoshiguma
+Subterranean Animism
+whom_to: Marisa Kirisame
+
+Hey! You got it, you're pretty good. That's it, now just tell me your weak point, please.
+Marisa Kirisame
+Subterranean Animism
+whom_to: Yuugi Hoshiguma
+
+Like I said, I'm Marisa, the Great Sage!
+Marisa Kirisame
+Subterranean Animism
+whom_to: Koishi Komeiji
+
+Are you the doll-using thief that they said visited our house?
+Koishi Komeiji
+Subterranean Animism
+whom_to: Marisa Kirisame
+
+Wha- !!
+Marisa Kirisame
+Subterranean Animism
+whom_to: Koishi Komeiji
+
+Tee hee.
+Alice Margatroid
+Subterranean Animism
+
+Oh, don't worry. If you just tell people you're friends with the people at the Palace, I'm sure most of the youkai will avoid you.
+Koishi Komeiji
+Subterranean Animism
+whom_to: Nitori Kawashiro
+
+(... ... wow, everybody hates them.)
+Nitori Kawashiro
+Subterranean Animism
+whom_to: Koishi Komeiji
+
+// Undefined Fantastic Object
+
+Why am I getting lectured by a cursed umbrella!? Fine, I'll beat you while I chase it, okay?
+Reimu Hakurei
+Undefined Fantastic Object
+
+Oh! So this is youkai hunting! ... ... This is kind of fun.
+Sanae Kochiya
+Undefined Fantastic Object
+
+Urameshiyaaaaa!
+Kogasa Tatara
+Undefined Fantastic Object
+
+I-I can't believe I lost to such an unidentifiable human!
+Nue Houjuu
+Undefined Fantastic Object
+
+Now, human! Boil me! Bake me alive! Do anything you wish! Oh, but please, just don't seal me underground again.
+Nue Houjuu
+Undefined Fantastic Object
+
+*sob sob* Just what are we youkai, anyway?
+Kogasa Tatara
+Undefined Fantastic Object
+whom_to: Reimu Hakurei
+
+Maybe you're luxury items?
+Reimu Hakurei
+Undefined Fantastic Object
+whom_to: Kogasa Tatara
+
+Just fall out of the sky, you stupid umbrella youkai.
+Reimu Hakurei
+Undefined Fantastic Object
+whom_to: Kogasa Tatara
+
+Oh humans are so cruel.
+Kogasa Tatara
+Undefined Fantastic Object
+whom_to: Reimu Hakurei
+
+Hey, you looked like you wanted me to beat you. Hmm, what do they call that?
+Reimu Hakurei
+Undefined Fantastic Object
+whom_to: Kogasa Tatara
+
+I dunno, Sadism?
+Kogasa Tatara
+Undefined Fantastic Object
+whom_to: Reimu Hakurei
+
+// Touhou Hisoutensoku
+
+You're always trying to close in on me. Are you trying to burn yourself to death?
+Utsuho Reiuji
+Touhou Hisoutensoku
+// TODO: when: Win against Meiling
+
+Wait, what? You didn't get blasted to smithereens. Was the output too low...?
+Utsuho Reiuji
+Touhou Hisoutensoku
+// TODO: when: Win against Cirno
+
+Hey, it's a shrine maiden. I can't tell you shrine maidens apart from one another.
+Utsuho Reiuji
+Touhou Hisoutensoku
+// TODO: when: Win against Reimu or Sanae
+
+It's so fun just to imagine what that large marshmallow-looking thing of yours tastes like.
+Sanae Kochiya
+Touhou Hisoutensoku
+// TODO: when: Win against Youmu
+
+Your surrounding are full of unnatural naturalness
+Cirno
+Touhou Hisoutensoku
+// TODO: when: Win against Patchouli
+
+// Fairy Wars
+
+Come out! Sunlight fairy, or whatever your name is!
+Cirno
+Fairy Wars
+
+So, what was I doing, again...?
+Cirno
+Fairy Wars
+
+// Ten Desires
+
+If you wanna shoot the leader, shoot his horse first! Get ready for this!
+Marisa Kirisame
+Ten Desires
+
+Oh yeah, I'm graverobbing! I mean, inspecting the ruins! Academic business and all! The gathering of divine spirits interests me. In an academic sense.
+Marisa Kirisame
+Ten Desires
+
+Oof, the stench of death is strong on you.
+Youmu Konpaku
+Ten Desires
+
+Goooood morning! You always gotta give a greeting!
+Kyouko Kasodani
+Ten Desires
+
+Dooon't come any closeeer!
+Yoshika Miyako
+Ten Desires
+
+Divine spirits? What're those? Are they nutritious?
+Yoshika Miyako
+Ten Desires
+
+NOOOOOooooo! I'm dyiiiiing!
+Yoshika Miyako
+Ten Desires
+
+Make sure to wake me up tonight at ten.
+Yoshika Miyako
+Ten Desires
+
+Yes, isn't rotting the cutest?
+Seiga Kaku
+Ten Desires
+
+What a magnificent human. I could learn a thing or two from you. But then again, I wonder if there are any humans whom I couldn't learn from...
+Toyosatomimi no Miko
+Ten Desires
+
+Just try to defeat me! I shall become as a living legend!
+Toyosatomimi no Miko
+Ten Desires
+
+This is animal abuse, plain and simple!
+Mamizou Futatsuiwa
+Ten Desires
+// TODO: when: Defeated
+
+Yes, what? Are you going to catch and cook me?
+Mamizou Futatsuiwa
+Ten Desires
+
+Alright, then, gonna have to beat the leader of the ghosts!
+Reimu Hakurei
+Ten Desires
+whom_to: Yuyuko Saigyouji
+
+Oh, do we have visitors? Hold on a moment, I'm still preparing tea.
+Yuyuko Saigyouji
+Ten Desires
+whom_to: Reimu Hakurei
+
+Oh, you shouldn't have.
+Reimu Hakurei
+Ten Desires
+whom_to: Yuyuko Saigyouji
+
+Even if you defeat me, it doesn't do anything for you...
+Kyouko Kasodani
+Ten Desires
+whom_to: Reimu Hakurei
+
+Well, you're a youkai. First priority is exterminating you.
+Reimu Hakurei
+Ten Desires
+whom_to: Kyouko Kasodani
+
+I am sure that next, you will say something like -
+Toyosatomimi no Miko
+Ten Desires
+whom_to: Reimu Hakurei
+
+Whoa, whoa, hold on a second! Would you let me talk?! I mean, I came all this way!
+Reimu Hakurei
+Ten Desires
+whom_to: Toyosatomimi no Miko
+
+What are you trying to protect?
+Marisa Kirisame
+Ten Desires
+whom_to: Yoshika Miyako
+
+Um... something...
+Yoshika Miyako
+Ten Desires
+whom_to: Marisa Kirisame
+
+You're a terrible conversationalist. Brain rot, I suppose?
+Marisa Kirisame
+Ten Desires
+whom_to: Yoshika Miyako
+
+What a sight. You aren't just an ordinary human, are you?
+Seiga Kaku
+Ten Desires
+whom_to: Marisa Kirisame
+
+Yeah, I'm an ordinary magician.
+Marisa Kirisame
+Ten Desires
+whom_to: Seiga Kaku
+
+Oh, there's no need for modesty. One of the living holding their own against me is truly remarkable.
+Seiga Kaku
+Ten Desires
+whom_to: Marisa Kirisame
+
+Alright, I give. I'm a very ordinary magician.
+Marisa Kirisame
+Ten Desires
+whom_to: Seiga Kaku
+
+I am Toyosatomimi no Miko. People call me Shoutoku.
+Toyosatomimi no Miko
+Ten Desires
+whom_to: Sanae Kochiya
+
+Shoutoku?! The one from the old 10,000-yen bill?!
+Sanae Kochiya
+Ten Desires
+whom_to: Toyosatomimi no Miko
+
+(How \"old\" would that be?)
+Toyosatomimi no Miko
+Ten Desires
+whom_to: Sanae Kochiya
+
+You already showed me your ten transformations, didn't you?
+Reimu Hakurei
+Ten Desires
+whom_to: Mamizou Futatsuiwa
+
+A-one, a-two, a-three...
+Mamizou Futatsuiwa
+Ten Desires
+whom_to: Reimu Hakurei
+
+Oh my, I really did? I thought we were still 'round about seven or eight...
+Mamizou Futatsuiwa
+Ten Desires
+whom_to: Reimu Hakurei
+
+The ocean?
+Reimu Hakurei
+Ten Desires
+whom_to: Mamizou Futatsuiwa
+
+Yes, what of it? Don't you know of the ocean?
+Mamizou Futatsuiwa
+Ten Desires
+whom_to: Reimu Hakurei
+
+Well, I think I've seen it once, but that was in the moon.
+Reimu Hakurei
+Ten Desires
+whom_to: Mamizou Futatsuiwa
+
+Are you insulting me still? What's your name, anyway?!
+Mamizou Futatsuiwa
+Ten Desires
+whom_to: Marisa Kirisame
+
+Reimu Hakurei!
+Marisa Kirisame
+Ten Desires
+whom_to: Mamizou Futatsuiwa
+
+What might you be? The Hakurei maiden?
+Mamizou Futatsuiwa
+Ten Desires
+whom_to: Sanae Kochiya
+
+Incorrect, and please don't associate me with her.
+Sanae Kochiya
+Ten Desires
+whom_to: Mamizou Futatsuiwa
+
+// Hopeless Masquerade
+
+I get so excited with this many spectators. It just makes me want to be all like pow! and wham!
+Reimu Hakurei
+Hopeless Masquerade
+
+This monk sure is weak; even her robes are weak.
+Marisa Kirisame
+Hopeless Masquerade
+// TODO: when: Win against Ichirin
+
+Everyone stinks o' incense around you. Boring.
+Marisa Kirisame
+Hopeless Masquerade
+// TODO: when: Win against Byakuren
+
+You oughta fix up that old accent o' yours. Try talkin' more modern-like.
+Marisa Kirisame
+Hopeless Masquerade
+// TODO: when: Win against Futo
+
+If you enter our temple, you can survive only on cucumbers.
+Ichirin Kumoi
+Hopeless Masquerade
+// TODO: when: Win against Nitori
+
+Don't the masks become stinky?
+Ichirin Kumoi
+Hopeless Masquerade
+// TODO: when: Win against Kokoro
+
+That kettle of yours, could I borrow it? Forever?
+Byakuren Hijiri
+Hopeless Masquerade
+// TODO: when: Win against Mamizou
+
+The nuns of old shaved their heads, you know?
+Mononobe no Futo
+Hopeless Masquerade
+// TODO: when: Win against Byakuren
+
+Is the gentleman over there not going to say anything?
+Toyosatomimi no Miko
+Hopeless Masquerade
+// TODO: when: Win against Ichirin
+
+The prices for those plates aren't a funny matter.
+Toyosatomimi no Miko
+Hopeless Masquerade
+// TODO: when: Win against Futo
+
+Do you need a new broom? It's the same price as it was 30 years ago.
+Nitori Kawashiro
+Hopeless Masquerade
+// TODO: when: Win against Marisa
+
+Shall we exchange your hat with mine?
+Koishi Komeiji
+Hopeless Masquerade
+// TODO: when: Win against Marisa
+
+Why are you covering your ears? You feel cold?
+Koishi Komeiji
+Hopeless Masquerade
+// TODO: when: Win against Miko
+
+You've been a bad person♪
+Koishi Komeiji
+Hopeless Masquerade
+// TODO: when: Win against herself
+
+Tanuki and kitsune don't go well together, do they? Which one tastes better?
+Koishi Komeiji
+Hopeless Masquerade
+// TODO: when: Win against Mamizou
+
+The sword you carry is a decoration? Somehow it smells like it could make a lot of money.
+Mamizou Futatsuiwa
+Hopeless Masquerade
+// TODO: when: Win against Miko
+
+Oh, you even have a tanuki mask. Wonder what emotion is it? \"The face when making immoral scams\" ...I see
+Mamizou Futatsuiwa
+Hopeless Masquerade
+// TODO: when: Win against Kokoro
+
+Hey, hey. This is the face for pretending to be a plate spinner~ (surprised mask).
+Hata no Kokoro
+Hopeless Masquerade
+// TODO: when: Win against Futo
+
+Hey, hey. This is the face for pretending to be a tanuki~ (fox mask).
+Hata no Kokoro
+Hopeless Masquerade
+// TODO: when: Win against Mamizou
+
+// Double Dealing Character
+
+Great, now the purification rod smells like animal...
+Reimu Hakurei
+Double Dealing Character
+whom_to: Kagerou Imaizumi
+
+Sashimi...tempura...Nah, that's not it.
+Marisa Kirisame
+Double Dealing Character
+// TODO: when: defeated Wakasagihime
+
+She was just a half-fish after all. No big deal. Wouldn't she be stronger if she were all fish?
+Marisa Kirisame
+Double Dealing Character
+
+Now, then... The punishment for bad girls is death.
+Marisa Kirisame
+Double Dealing Character
+
+Hmm, probably. That glossy hair does look pretty flammable.
+Marisa Kirisame
+Double Dealing Character
+whom_to: Kagerou Imaizumi
+
+It seems peace in Gensokyo is like the Tower of Babel upon sand.
+Sakuya Izayoi
+Double Dealing Character
+
+I felt like cutting something, such as a neck...
+Sakuya Izayoi
+Double Dealing Character
+
+Yes, if you behave yourself, no one will hurt you... Except for the shrine maiden.
+Sakuya Izayoi
+Double Dealing Character
+
+I will show no mercy to those who want to plunge Gensokyo into chaos.
+Sakuya Izayoi
+Double Dealing Character
+
+Eek, my cuticles!
+Kagerou Imaizumi
+Double Dealing Character
+
+It's always been my dream to fight against a human and win, you know.
+Yatsuhashi Tsukumo
+Double Dealing Character
+
+We are a force of resistance. We will overturn society and re-draw the political borders of Gensokyo! It doesn't have much to do with you, since you humans will end up under our heels.
+Seija Kijin
+Double Dealing Character
+
+None of you understand how much we, the weak, have been oppressed. So... In this inverted castle where everything is turned upside-down, I'll give you a taste of the humiliation the weak have suffered!
+Seija Kijin
+Double Dealing Character
+
+Actually, ya did surprise me there when your head took off.
+Marisa Kirisame
+whom_to: Sekibanki
+
+Do you want to see me do that again?
+Sekibanki
+whom_to: Marisa Kirisame
+
+Wh-What's with you? You're actually strong!
+Sekibanki
+whom_to: Marisa Kirisame
+
+'Course I am. If I were weak, I'd be sleepin' at home.
+Marisa Kirisame
+whom_to: Sekibanki
+
+A mermaid in the lake? Do you mean Wakasagihime?
+Kagerou Imaizumi
+whom_to: Marisa Kirisame
+
+Yeah. Do ya know each other?
+Marisa Kirisame
+whom_to: Kagerou Imaizumi
+
+Somewhat, thanks to the grassroots youkai network. Though I also tried to eat her once by mistake.
+Kagerou Imaizumi
+whom_to: Marisa Kirisame
+
+Did I even once say that I was weak? But... My expectations were off.
+Sakuya Izayoi
+whom_to: Sekibanki
+
+Wh-What do you mean?
+Sekibanki
+whom_to: Sakuya Izayoi
+
+Because I never needed to cut off your neck at all.
+Sakuya Izayoi
+whom_to: Sekibanki
+
+Gyah!
+Sekibanki
+whom_to: Sakuya Izayoi
+
+Do you think you can defeat me?
+Kagerou Imaizumi
+whom_to: Sakuya Izayoi
+
+Yes, I believe I can.
+Sakuya Izayoi
+whom_to: Kagerou Imaizumi
+
+O-Oh, a quick answer.
+Kagerou Imaizumi
+whom_to: Sakuya Izayoi
+
+
+Who should it be but a wolfman!
+Sakuya Izayoi
+whom_to: Kagerou Imaizumi
+
+I'm a wolf-woman!
+Kagerou Imaizumi
+whom_to: Sakuya Izayoi
+
+Well, either way. Your blood will coat my knife.
+Sakuya Izayoi
+whom_to: Kagerou Imaizumi
+
+Eek!
+Kagerou Imaizumi
+whom_to: Sakuya Izayoi
+
+The drummers in the outside world have a saying. \"Awaken your caveman spirit, for it doesn't need brains to beat a drum!\"
+Raiko Horikawa
+whom_to: Reimu Hakurei
+
+Huh...The outside world seems barbaric.
+Reimu Hakurei
+whom_to: Raiko Horikawa
+
+I don't want to go back to a life of being hit and stepped on.
+Raiko Horikawa
+whom_to: Sakuya Izayoi
+
+You are a drum, yes? How could you not want to be hit?
+Sakuya Izayoi
+whom_to: Raiko Horikawa
