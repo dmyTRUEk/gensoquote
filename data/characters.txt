@@ -5,6 +5,8 @@ Unknown
 // Protagonists
 Reimu Hakurei
 Marisa Kirisame
+// this is tmp, 'll've to solve it somehow later
+Marisa Kirisame and Alice Margatroid
 
 //
 // PC-98
@@ -42,6 +44,18 @@ Yumemi Okazaki
 //Multi
 //Mimi-Chan
 
+// Lotus Land Story
+Bewitching Lotus Flower
+Orange
+Kurumi
+Dark Mirror
+Elly
+Hikariko
+Yuuka Kazami
+Mysterious Orb
+Mugetsu
+Gengetsu
+
 // Mystic Square
 Wheel Demon
 Sara
@@ -78,9 +92,9 @@ Letty Whiterock
 Chen
 Lily White
 Prismriver Sisters
-//Lyrica Prismriver
-//Lunasa Prismriver
-//Merlin Prismriver
+Lyrica Prismriver
+Lunasa Prismriver
+Merlin Prismriver
 Youmu Konpaku
 Yuyuko Saigyouji
 Ran Yakumo
@@ -108,7 +122,8 @@ Fujiwara no Mokou
 Aya Shameimaru
 Medicine Melancholy
 Komachi Onozuka
-Eiki Shiki Yamaxanadu
+//Eiki Shiki Yamaxanadu
+Eiki Shiki
 
 //
 // Windows 2nd Generation
@@ -252,6 +267,7 @@ Marisa's unnamed father
 
 // Touhou Sangetsusei
 //Three Mischievous Fairies
+Three Fairies of Light
 Luna Child
 Star Sapphire
 Sunny Milk

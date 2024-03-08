@@ -15,6 +15,8 @@ pub enum Character {
 	// Protagonists
 	Reimu_Hakurei,
 	Marisa_Kirisame,
+	// this is tmp, 'll've to solve it somehow later
+	Marisa_Kirisame_and_Alice_Margatroid,
 
 	//
 	// PC-98
@@ -52,6 +54,18 @@ pub enum Character {
 	//Multi
 	//Mimi-Chan
 
+	// Lotus Land Story
+	Bewitching_Lotus_Flower,
+	Orange,
+	Kurumi,
+	Dark_Mirror,
+	Elly,
+	Hikariko,
+	Yuuka_Kazami,
+	Mysterious_Orb,
+	Mugetsu,
+	Gengetsu,
+
 	// Mystic Square
 	Wheel_Demon,
 	Sara,
@@ -88,9 +102,9 @@ pub enum Character {
 	Chen,
 	Lily_White,
 	Prismriver_Sisters,
-	//Lyrica Prismriver
-	//Lunasa Prismriver
-	//Merlin Prismriver
+	Lyrica_Prismriver,
+	Lunasa_Prismriver,
+	Merlin_Prismriver,
 	Youmu_Konpaku,
 	Yuyuko_Saigyouji,
 	Ran_Yakumo,
@@ -118,7 +132,8 @@ pub enum Character {
 	Aya_Shameimaru,
 	Medicine_Melancholy,
 	Komachi_Onozuka,
-	Eiki_Shiki_Yamaxanadu,
+	//Eiki Shiki Yamaxanadu
+	Eiki_Shiki,
 
 	//
 	// Windows 2nd Generation
@@ -262,6 +277,7 @@ pub enum Character {
 
 	// Touhou Sangetsusei
 	//Three Mischievous Fairies
+	Three_Fairies_of_Light,
 	Luna_Child,
 	Star_Sapphire,
 	Sunny_Milk,
@@ -337,6 +353,8 @@ impl ToStr for Character {
 			// Protagonists
 			Self::Reimu_Hakurei => "Reimu Hakurei",
 			Self::Marisa_Kirisame => "Marisa Kirisame",
+			// this is tmp, 'll've to solve it somehow later
+			Self::Marisa_Kirisame_and_Alice_Margatroid => "Marisa Kirisame and Alice Margatroid",
 
 			//
 			// PC-98
@@ -374,6 +392,18 @@ impl ToStr for Character {
 			//Multi
 			//Mimi-Chan
 
+			// Lotus Land Story
+			Self::Bewitching_Lotus_Flower => "Bewitching Lotus Flower",
+			Self::Orange => "Orange",
+			Self::Kurumi => "Kurumi",
+			Self::Dark_Mirror => "Dark Mirror",
+			Self::Elly => "Elly",
+			Self::Hikariko => "Hikariko",
+			Self::Yuuka_Kazami => "Yuuka Kazami",
+			Self::Mysterious_Orb => "Mysterious Orb",
+			Self::Mugetsu => "Mugetsu",
+			Self::Gengetsu => "Gengetsu",
+
 			// Mystic Square
 			Self::Wheel_Demon => "Wheel Demon",
 			Self::Sara => "Sara",
@@ -410,9 +440,9 @@ impl ToStr for Character {
 			Self::Chen => "Chen",
 			Self::Lily_White => "Lily White",
 			Self::Prismriver_Sisters => "Prismriver Sisters",
-			//Lyrica Prismriver
-			//Lunasa Prismriver
-			//Merlin Prismriver
+			Self::Lyrica_Prismriver => "Lyrica Prismriver",
+			Self::Lunasa_Prismriver => "Lunasa Prismriver",
+			Self::Merlin_Prismriver => "Merlin Prismriver",
 			Self::Youmu_Konpaku => "Youmu Konpaku",
 			Self::Yuyuko_Saigyouji => "Yuyuko Saigyouji",
 			Self::Ran_Yakumo => "Ran Yakumo",
@@ -440,7 +470,8 @@ impl ToStr for Character {
 			Self::Aya_Shameimaru => "Aya Shameimaru",
 			Self::Medicine_Melancholy => "Medicine Melancholy",
 			Self::Komachi_Onozuka => "Komachi Onozuka",
-			Self::Eiki_Shiki_Yamaxanadu => "Eiki Shiki Yamaxanadu",
+			//Eiki Shiki Yamaxanadu
+			Self::Eiki_Shiki => "Eiki Shiki",
 
 			//
 			// Windows 2nd Generation
@@ -584,6 +615,7 @@ impl ToStr for Character {
 
 			// Touhou Sangetsusei
 			//Three Mischievous Fairies
+			Self::Three_Fairies_of_Light => "Three Fairies of Light",
 			Self::Luna_Child => "Luna Child",
 			Self::Star_Sapphire => "Star Sapphire",
 			Self::Sunny_Milk => "Sunny Milk",

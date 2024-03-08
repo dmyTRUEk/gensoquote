@@ -1,13 +1,14 @@
 //! Quote struct.
 
-use crate::{characters::Character, source::Source};
+use crate::characters::Character;
 
 pub struct Quote {
 	pub text: &'static str,
 	pub char: Character,
-	pub src: Option<Source>,
+	pub src: Option<&'static str>,
 	/// `char` says `text` about who?
 	pub whom_about: Option<Character>,
+	pub whom_to: Option<Character>,
 }
 
 impl Quote {
@@ -17,6 +18,7 @@ impl Quote {
 			char: Character::Unknown,
 			src: None,
 			whom_about: None,
+			whom_to: None,
 		}
 	}
 }
