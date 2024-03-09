@@ -217,6 +217,7 @@ Perfect Cherry Blossom, Extra Stage
 ... She was supposed to be strong? Wait, she's your shikigami? Aren't you a shikigami yourself?
 Reimu Hakurei
 Perfect Cherry Blossom, Extra Stage
+// TODO: whom_to: ?
 
 To start with, she is a youkai that you do not want to deal with. Even besides the fundamental issue of the danger of her ability, this youkai will appear anywhere unexpectedly, her character is lacking in human sentiment, and her behavioral principles are completely different from those of humans, to name a few of her issues.
 Hieda no Akyuu

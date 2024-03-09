@@ -1,6 +1,24 @@
 # gensoquote
 like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) but in Gensokyo and memory safe™.
 
+## Examples
+```
+"I'm the strongest!"
+-- Cirno, "Phantasmagoria of Flower View"
+```
+```
+"... She was supposed to be strong? Wait, she's your shikigami? Aren't you a shikigami yourself?"
+-- Reimu Hakurei, "Perfect Cherry Blossom, Extra Stage"
+```
+```
+"It ain't magic if it ain't flashy. Danmaku's all about firepower."
+-- Marisa Kirisame, "Perfect Memento in Strict Sense"
+```
+```
+"Read your mind? I've already closed my satori eye. Reading people's minds only makes you depressed, there's nothing good about it."
+-- Koishi Komeiji to Reimu Hakurei, "Subterranean Animism, Extra Stage"
+```
+
 ## Features
 - Over 600 quotes from all the Touhou Project
 
