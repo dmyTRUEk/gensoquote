@@ -1,6 +1,9 @@
 # gensoquote
 like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) but in Gensokyo and memory safe™.
 
+## Features
+- Over 600 quotes from all the Touhou Project
+
 ## Installation
 ### From package manager
 Currently no :'(
@@ -11,6 +14,7 @@ Install `rustup` (and then do `rustup toolchain install stable`) or simply `carg
 from your preferred package manager
 or follow the [official installation tutorial](https://www.rust-lang.org/tools/install).
 
+#### Steps:
 1. Clone the repo:
 ```
 git clone https://github.com/dmyTRUEk/gensoquote
@@ -40,12 +44,16 @@ Or pipe it to [fumosay](https://github.com/randomtwdude/fumosay) for even more f
 
 Rumors say that piping it to [lolcat](https://github.com/busyloop/lolcat) generates unforgettable experience.
 
+## License
+All the rights for quotes and characters belongs to corresponding author (mostly Zun),
+while the code and related things are distributed under [MIT* license](./LICENSE.md).
+
 ## Contributions
 Contributions are welcome!
 
 Plz use tabs for indenting
-(they have a lot of benefits compared to spaces).
+(they have a lot of benefits compared to spaces, think about it).
 
 ## Acknowledgments
-Thanks to @randomtwdude and their [fumosay](https://github.com/randomtwdude/fumosay) for massive inspiration.
+Thanks to [@randomtwdude](https://github.com/randomtwdude) and their [fumosay](https://github.com/randomtwdude/fumosay) for massive inspiration.
 
