@@ -58,9 +58,11 @@ You can copy it to `~/.local/bin/` to for convenient use.
 ## Usage
 Simply run `gensoquote` to get random quote.
 
-Or pipe it to [fumosay](https://github.com/randomtwdude/fumosay) for even more funkyness.
+Or pipe it to [fumosay](https://github.com/randomtwdude/fumosay) for even more funkyness:
+`gensoquote | fumosay`.
 
-Rumors say that piping it to [lolcat](https://github.com/busyloop/lolcat) generates unforgettable experience.
+Rumors say that piping it to [lolcat](https://github.com/busyloop/lolcat) generates unforgettable experience:
+`gensoquote | fumosay | lolcat`.
 
 ## License
 All the rights for quotes and characters belongs to corresponding author (mostly Zun),
