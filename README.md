@@ -1,5 +1,5 @@
 # gensoquote
-like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) but in Gensokyo and memory safe™.
+Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) but in Gensokyo and memory safe™.
 
 ## Examples
 ```
@@ -21,6 +21,7 @@ like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) but in Gensokyo and
 
 ## Features
 - Over 600 quotes from all the Touhou Project
+- Select your favorite character (`-c` or `--character` option)
 
 ## Installation
 ### From package manager
@@ -53,10 +54,15 @@ cargo build
 ```
 
 4. Locate single final binary at `./target/<debug or release>/gensoquote`.
-You can copy it to `~/.local/bin/` to for convenient use.
+You can copy it to `~/.local/bin/` for convenient use.
 
 ## Usage
 Simply run `gensoquote` to get random quote.
+
+Run `gensoquote -h` or `gensoquote --help` to get help.
+
+Select character who's random quote you want to get by running
+`gensoquote -c koishi` or `gensoquote --character 'Koishi Komeiji'`.
 
 Or pipe it to [fumosay](https://github.com/randomtwdude/fumosay) for even more funkyness:
 `gensoquote | fumosay`.
