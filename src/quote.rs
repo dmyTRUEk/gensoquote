@@ -13,7 +13,7 @@ pub struct Quote {
 
 impl Quote {
 	pub const fn default() -> Self {
-	    Self {
+		Self {
 			text: "default text",
 			char: Character::Unknown,
 			src: None,

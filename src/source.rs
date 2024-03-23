@@ -10,9 +10,9 @@ pub enum Source {
 
 impl ToStr for Source {
 	fn to_str(&self) -> &str {
-	    match self {
-	        Self::Game(game) => game.to_str(),
-	        Self::Artbook(artbook) => artbook.to_str(),
-	    }
+		match self {
+			Self::Game(game) => game.to_str(),
+			Self::Artbook(artbook) => artbook.to_str(),
+		}
 	}
 }

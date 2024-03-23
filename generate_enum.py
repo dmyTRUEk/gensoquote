@@ -28,7 +28,7 @@ def main():
 	output.append("use crate::to_str::ToStr;")
 	output.append("")
 	output.append("#[allow(non_camel_case_types, dead_code)]")
-	output.append("#[derive(Debug)]")
+	output.append("#[derive(Debug, Clone, Copy)]")
 	output.append(f"pub enum {enum_name_camelcase} {{")
 	for line in lines:
 		if line.startswith("//"):
