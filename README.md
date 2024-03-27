@@ -1,5 +1,5 @@
 # gensoquote
-Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) but in Gensokyo and memory safe™.
+Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)), but in Gensokyo and memory safe™.
 
 ## Examples
 ```
