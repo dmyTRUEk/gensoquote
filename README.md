@@ -1,6 +1,8 @@
 # gensoquote
 Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)), but in Gensokyo and memory safe™.
 
+[![gensoquote-git](https://img.shields.io/aur/version/gensoquote-git?color=1793d1&label=gensoquote-git&logo=arch-linux&style=for-the-badge)](https://aur.archlinux.org/packages/gensoquote-git/)
+
 ## Examples
 ```
 "I'm the strongest!"
@@ -25,7 +27,8 @@ Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)), but in Gensokyo an
 
 ## Installation
 ### From package manager
-Currently no :'(
+#### Arch Linux
+Available as [AUR package](https://aur.archlinux.org/packages/gensoquote-git/) 🎉
 
 ### From source
 #### Pre requirements: "rust" installed
