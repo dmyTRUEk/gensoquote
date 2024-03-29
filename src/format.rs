@@ -96,79 +96,83 @@ fn format_optional(
 mod tests {
 	use super::*;
 
-	#[test]
-	fn default_without_to_without_about() {
-		use crate::characters::Character::Marisa_Kirisame;
-		let quote = Quote {
-			text: "It ain't magic if it ain't flashy. Danmaku's all about firepower.",
-			char: Marisa_Kirisame,
-			src: "Perfect Memento in Strict Sense",
-			..Quote::default()
-		};
-		assert_eq!(
-			String::from("\
-				\"It ain't magic if it ain't flashy. Danmaku's all about firepower.\"\n\
-				-- Marisa Kirisame, \"Perfect Memento in Strict Sense\"\
-			"),
-			format_quote(&quote, FORMATTING_DEFAULT),
-		);
-	}
+	mod default_formatting {
+		use super::*;
 
-	#[test]
-	fn default_with_to_without_about() {
-		use crate::characters::Character::{Shinki, Yuuka_Kazami};
-		let quote = Quote {
-			text: "Massacres are a kind of game, too. It doesn't matter whether it's humans or Makai residents",
-			char: Yuuka_Kazami,
-			src: "Mystic Square",
-			whom_to: Some(Shinki),
-			..Quote::default()
-		};
-		assert_eq!(
-			String::from("\
-				\"Massacres are a kind of game, too. It doesn't matter whether it's humans or Makai residents\"\n\
-				-- Yuuka Kazami to Shinki, \"Mystic Square\"\
-			"),
-			format_quote(&quote, FORMATTING_DEFAULT),
-		);
-	}
+		#[test]
+		fn without_to_without_about() {
+			use crate::characters::Character::Marisa_Kirisame;
+			let quote = Quote {
+				text: "It ain't magic if it ain't flashy. Danmaku's all about firepower.",
+				char: Marisa_Kirisame,
+				src: "Perfect Memento in Strict Sense",
+				..Quote::default()
+			};
+			assert_eq!(
+				String::from("\
+					\"It ain't magic if it ain't flashy. Danmaku's all about firepower.\"\n\
+					-- Marisa Kirisame, \"Perfect Memento in Strict Sense\"\
+				"),
+				format_quote(&quote, FORMATTING_DEFAULT),
+			);
+		}
 
-	#[test]
-	fn default_without_to_with_about() {
-		use crate::characters::Character::{Hieda_no_Akyuu, Reimu_Hakurei};
-		let quote = Quote {
-			text: "Out of the generations of shrine maidens, her sense of danger is the most lacking and she has meager training, yet her power is considerable.",
-			char: Hieda_no_Akyuu,
-			src: "Perfect Memento in Strict Sense",
-			whom_about: Some(Reimu_Hakurei),
-			..Quote::default()
-		};
-		assert_eq!(
-			String::from("\
-				\"Out of the generations of shrine maidens, her sense of danger is the most lacking and she has meager training, yet her power is considerable.\"\n\
-				-- Hieda no Akyuu about Reimu Hakurei, \"Perfect Memento in Strict Sense\"\
-			"),
-			format_quote(&quote, FORMATTING_DEFAULT),
-		);
-	}
+		#[test]
+		fn with_to_without_about() {
+			use crate::characters::Character::{Shinki, Yuuka_Kazami};
+			let quote = Quote {
+				text: "Massacres are a kind of game, too. It doesn't matter whether it's humans or Makai residents",
+				char: Yuuka_Kazami,
+				src: "Mystic Square",
+				whom_to: Some(Shinki),
+				..Quote::default()
+			};
+			assert_eq!(
+				String::from("\
+					\"Massacres are a kind of game, too. It doesn't matter whether it's humans or Makai residents\"\n\
+					-- Yuuka Kazami to Shinki, \"Mystic Square\"\
+				"),
+				format_quote(&quote, FORMATTING_DEFAULT),
+			);
+		}
 
-	#[test]
-	fn default_with_to_with_about() {
-		use crate::characters::Character::{Shinki, Yumeko, Yuuka_Kazami};
-		let quote = Quote {
-			text: "You musn't dirty your hands dealing with this kind of person! I shall deal with her promptly, so please, step back, Lady Shinki.",
-			char: Yumeko,
-			src: "Mystic Square, Stage 5",
-			whom_to: Some(Shinki),
-			whom_about: Some(Yuuka_Kazami),
-		};
-		assert_eq!(
-			String::from("\
-				\"You musn't dirty your hands dealing with this kind of person! I shall deal with her promptly, so please, step back, Lady Shinki.\"\n\
-				-- Yumeko to Shinki about Yuuka Kazami, \"Mystic Square, Stage 5\"\
-			"),
-			format_quote(&quote, FORMATTING_DEFAULT),
-		);
+		#[test]
+		fn without_to_with_about() {
+			use crate::characters::Character::{Hieda_no_Akyuu, Reimu_Hakurei};
+			let quote = Quote {
+				text: "Out of the generations of shrine maidens, her sense of danger is the most lacking and she has meager training, yet her power is considerable.",
+				char: Hieda_no_Akyuu,
+				src: "Perfect Memento in Strict Sense",
+				whom_about: Some(Reimu_Hakurei),
+				..Quote::default()
+			};
+			assert_eq!(
+				String::from("\
+					\"Out of the generations of shrine maidens, her sense of danger is the most lacking and she has meager training, yet her power is considerable.\"\n\
+					-- Hieda no Akyuu about Reimu Hakurei, \"Perfect Memento in Strict Sense\"\
+				"),
+				format_quote(&quote, FORMATTING_DEFAULT),
+			);
+		}
+
+		#[test]
+		fn with_to_with_about() {
+			use crate::characters::Character::{Shinki, Yumeko, Yuuka_Kazami};
+			let quote = Quote {
+				text: "You musn't dirty your hands dealing with this kind of person! I shall deal with her promptly, so please, step back, Lady Shinki.",
+				char: Yumeko,
+				src: "Mystic Square, Stage 5",
+				whom_to: Some(Shinki),
+				whom_about: Some(Yuuka_Kazami),
+			};
+			assert_eq!(
+				String::from("\
+					\"You musn't dirty your hands dealing with this kind of person! I shall deal with her promptly, so please, step back, Lady Shinki.\"\n\
+					-- Yumeko to Shinki about Yuuka Kazami, \"Mystic Square, Stage 5\"\
+				"),
+				format_quote(&quote, FORMATTING_DEFAULT),
+			);
+		}
 	}
 
 	mod optional {
