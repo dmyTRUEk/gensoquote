@@ -3,6 +3,7 @@ name = "gensoquote"
 version = "0.3.0"
 edition = "2021"
 authors = ["dmyTRUEk"]
+description = "Like fortune, but in Gensokyo and memory safe."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
