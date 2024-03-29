@@ -8,7 +8,6 @@
 use crate::to_str::ToStr;
 
 #[allow(non_camel_case_types, dead_code)]
-#[derive(Debug, Clone, Copy)]
 pub enum Character {
 	Unknown,
 
