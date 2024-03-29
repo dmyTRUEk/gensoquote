@@ -86,3 +86,4 @@ Plz use tabs for indenting
 ## Acknowledgments
 Thanks to [@randomtwdude](https://github.com/randomtwdude) and their [fumosay](https://github.com/randomtwdude/fumosay) for massive inspiration.
 
+Thanks to [@kojq](https://github.com/kojq) for AUR packaging.
