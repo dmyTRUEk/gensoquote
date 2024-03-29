@@ -6,12 +6,19 @@ use rand::{thread_rng, Rng};
 // mod artbooks;
 mod characters;
 // mod games;
+mod format;
 mod quote;
 mod quotes;
 // mod source;
 mod to_str;
 
-use crate::{quote::Quote, quotes::QUOTES, to_str::ToStr};
+use crate::{
+	format::{FORMATTING_DEFAULT, format_quote},
+	quote::Quote,
+	quotes::QUOTES,
+	to_str::ToStr,
+};
+
 
 #[derive(Parser, Debug)]
 #[command(about, version, long_about = None, author)]
@@ -19,19 +26,34 @@ struct CliArgs {
 	/// Name of the character
 	#[arg(short, long)]
 	character: Option<String>,
+
+	/// Format string
+	///
+	/// Formatters:
+	/// %q - quote (text)
+	/// %c - character
+	/// %s - source
+	/// (%t) - whom to
+	/// (%a) - whom about
+	///
+	/// Optional formatter must be enclosed in round brackets,
+	/// which may have additional text inside.
+	///
+	/// Example:
+	/// `"%q" -- %c( says to %t), %s`
+	/// if %t is none:
+	/// `"My hat is my friend." -- Koishi Komeiji, KKHTA`
+	/// if %t is not none:
+	/// `"My hat is my friend." -- Koishi Komeiji says to Koishi Komeiji, KKHTA`
+	#[arg(short, long, verbatim_doc_comment, default_value_t={FORMATTING_DEFAULT.to_string()})]
+	format: String,
 }
 
 fn main() -> Result<(), &'static str> {
 	let cli_args = CliArgs::parse();
-	let Quote { text, char, src, whom_to, whom_about } = get_random_quote(cli_args.character)?;
-	let char = char.to_str();
-	let maybe_to = whom_to
-		.map(|whom_to| format!(" to {}", whom_to.to_str()))
-		.unwrap_or_default();
-	let maybe_about = whom_about
-		.map(|whom_about| format!(" about {}", whom_about.to_str()))
-		.unwrap_or_default();
-	println!("\"{text}\"\n-- {char}{maybe_to}{maybe_about}, \"{src}\"");
+	let quote = get_random_quote(cli_args.character)?;
+	let quote_formatted = format_quote(quote, &cli_args.format);
+	println!("{quote_formatted}");
 	Ok(())
 }
 
