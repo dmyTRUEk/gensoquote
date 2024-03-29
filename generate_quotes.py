@@ -37,10 +37,10 @@ def main():
 			output.append("")
 		else:
 			if quote is None:
-				quote = Quote(text=line, char="", src=None, whom_to=None, whom_about=None)
+				quote = Quote(text=line, char="", src="", whom_to=None, whom_about=None)
 			elif quote.char == "":
 				quote.char = name_to_identifier(line)
-			elif quote.char != "" and quote.src is None:
+			elif quote.char != "" and quote.src == "":
 				quote.src = line
 			elif line.startswith("whom_to: "):
 				whom_to = line[9:]
@@ -72,7 +72,7 @@ def main():
 class Quote:
 	text: str
 	char: str
-	src: None | str
+	src: str
 	whom_to: None | str
 	whom_about: None | str
 
@@ -81,16 +81,15 @@ class Quote:
 			"\tQuote {",
 			f"\t\ttext: \"{self.text}\",",
 			f"\t\tchar: {self.char},",
+			f"\t\tsrc: \"{self.src}\",",
 		]
-		if self.src is not None:
-			lines.append(f"\t\tsrc: Some(\"{self.src}\"),")
 		if self.whom_to is not None:
 			whom_to = name_to_identifier(self.whom_to)
 			lines.append(f"\t\twhom_to: Some({whom_to}),")
 		if self.whom_about is not None:
 			whom_about = name_to_identifier(self.whom_about)
 			lines.append(f"\t\twhom_about: Some({whom_about}),")
-		if self.src is None or self.whom_about is None or self.whom_to is None:
+		if self.whom_about is None or self.whom_to is None:
 			lines.append("\t\t..Quote::default()")
 		lines.append("\t},")
 		return lines

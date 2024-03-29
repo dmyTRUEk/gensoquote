@@ -5,7 +5,7 @@ use crate::characters::Character;
 pub struct Quote {
 	pub text: &'static str,
 	pub char: Character,
-	pub src: Option<&'static str>,
+	pub src: &'static str,
 	pub whom_to: Option<Character>,
 	/// `char` says `text` about who?
 	pub whom_about: Option<Character>,
@@ -16,7 +16,7 @@ impl Quote {
 		Self {
 			text: "default text",
 			char: Character::Unknown,
-			src: None,
+			src: "default src",
 			whom_to: None,
 			whom_about: None,
 		}

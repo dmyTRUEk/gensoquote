@@ -31,10 +31,7 @@ fn main() -> Result<(), &'static str> {
 	let maybe_about = whom_about
 		.map(|whom_about| format!(" about {}", whom_about.to_str()))
 		.unwrap_or_default();
-	let maybe_src = src
-		.map(|src| format!(", \"{}\"", src))
-		.unwrap_or_default();
-	println!("\"{text}\"\n-- {char}{maybe_to}{maybe_about}{maybe_src}");
+	println!("\"{text}\"\n-- {char}{maybe_to}{maybe_about}, \"{src}\"");
 	Ok(())
 }
 
