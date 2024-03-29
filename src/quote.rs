@@ -6,9 +6,9 @@ pub struct Quote {
 	pub text: &'static str,
 	pub char: Character,
 	pub src: Option<&'static str>,
+	pub whom_to: Option<Character>,
 	/// `char` says `text` about who?
 	pub whom_about: Option<Character>,
-	pub whom_to: Option<Character>,
 }
 
 impl Quote {
@@ -17,8 +17,8 @@ impl Quote {
 			text: "default text",
 			char: Character::Unknown,
 			src: None,
-			whom_about: None,
 			whom_to: None,
+			whom_about: None,
 		}
 	}
 }

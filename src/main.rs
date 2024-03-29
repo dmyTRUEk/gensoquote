@@ -23,7 +23,7 @@ struct CliArgs {
 
 fn main() -> Result<(), &'static str> {
 	let cli_args = CliArgs::parse();
-	let Quote { text, char, src, whom_about, whom_to } = get_random_quote(cli_args.character)?;
+	let Quote { text, char, src, whom_to, whom_about } = get_random_quote(cli_args.character)?;
 	let char = char.to_str();
 	let maybe_to = whom_to
 		.map(|whom_to| format!(" to {}", whom_to.to_str()))

@@ -191,8 +191,8 @@ pub const QUOTES: &[Quote] = &[
 		text: "You musn't dirty your hands dealing with this kind of person! I shall deal with her promptly, so please, step back, Lady Shinki.",
 		char: Yumeko,
 		src: Some("Mystic Square, Stage 5"),
-		whom_about: Some(Yuuka_Kazami),
 		whom_to: Some(Shinki),
+		whom_about: Some(Yuuka_Kazami),
 	},
 	Quote {
 		text: "Defeat me? How ridiculous!! A shrine maiden is nothing more than a dog of the gods.",

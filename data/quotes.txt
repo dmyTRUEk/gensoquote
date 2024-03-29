@@ -124,8 +124,8 @@ Mystic Square, Stage 4
 You musn't dirty your hands dealing with this kind of person! I shall deal with her promptly, so please, step back, Lady Shinki.
 Yumeko
 Mystic Square, Stage 5
-whom_about: Yuuka Kazami
 whom_to: Shinki
+whom_about: Yuuka Kazami
 
 Defeat me? How ridiculous!! A shrine maiden is nothing more than a dog of the gods.
 Shinki
