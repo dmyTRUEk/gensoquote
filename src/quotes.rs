@@ -4615,85 +4615,99 @@ pub const QUOTES: &[Quote] = &[
 	Quote {
 		text: "Actually, ya did surprise me there when your head took off.",
 		char: Marisa_Kirisame,
-		src: "whom_to: Sekibanki",
+		src: "Double Dealing Character",
+		whom_to: Some(Sekibanki),
 		..Quote::default()
 	},
 	Quote {
 		text: "Do you want to see me do that again?",
 		char: Sekibanki,
-		src: "whom_to: Marisa Kirisame",
+		src: "Double Dealing Character",
+		whom_to: Some(Marisa_Kirisame),
 		..Quote::default()
 	},
 	Quote {
 		text: "Wh-What's with you? You're actually strong!",
 		char: Sekibanki,
-		src: "whom_to: Marisa Kirisame",
+		src: "Double Dealing Character",
+		whom_to: Some(Marisa_Kirisame),
 		..Quote::default()
 	},
 	Quote {
 		text: "'Course I am. If I were weak, I'd be sleepin' at home.",
 		char: Marisa_Kirisame,
-		src: "whom_to: Sekibanki",
+		src: "Double Dealing Character",
+		whom_to: Some(Sekibanki),
 		..Quote::default()
 	},
 	Quote {
 		text: "A mermaid in the lake? Do you mean Wakasagihime?",
 		char: Kagerou_Imaizumi,
-		src: "whom_to: Marisa Kirisame",
+		src: "Double Dealing Character",
+		whom_to: Some(Marisa_Kirisame),
 		..Quote::default()
 	},
 	Quote {
 		text: "Yeah. Do ya know each other?",
 		char: Marisa_Kirisame,
-		src: "whom_to: Kagerou Imaizumi",
+		src: "Double Dealing Character",
+		whom_to: Some(Kagerou_Imaizumi),
 		..Quote::default()
 	},
 	Quote {
 		text: "Somewhat, thanks to the grassroots youkai network. Though I also tried to eat her once by mistake.",
 		char: Kagerou_Imaizumi,
-		src: "whom_to: Marisa Kirisame",
+		src: "Double Dealing Character",
+		whom_to: Some(Marisa_Kirisame),
 		..Quote::default()
 	},
 	Quote {
 		text: "Did I even once say that I was weak? But... My expectations were off.",
 		char: Sakuya_Izayoi,
-		src: "whom_to: Sekibanki",
+		src: "Double Dealing Character",
+		whom_to: Some(Sekibanki),
 		..Quote::default()
 	},
 	Quote {
 		text: "Wh-What do you mean?",
 		char: Sekibanki,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 	Quote {
 		text: "Because I never needed to cut off your neck at all.",
 		char: Sakuya_Izayoi,
-		src: "whom_to: Sekibanki",
+		src: "Double Dealing Character",
+		whom_to: Some(Sekibanki),
 		..Quote::default()
 	},
 	Quote {
 		text: "Gyah!",
 		char: Sekibanki,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 	Quote {
 		text: "Do you think you can defeat me?",
 		char: Kagerou_Imaizumi,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 	Quote {
 		text: "Yes, I believe I can.",
 		char: Sakuya_Izayoi,
-		src: "whom_to: Kagerou Imaizumi",
+		src: "Double Dealing Character",
+		whom_to: Some(Kagerou_Imaizumi),
 		..Quote::default()
 	},
 	Quote {
 		text: "O-Oh, a quick answer.",
 		char: Kagerou_Imaizumi,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 
@@ -4701,49 +4715,57 @@ pub const QUOTES: &[Quote] = &[
 	Quote {
 		text: "Who should it be but a wolfman!",
 		char: Sakuya_Izayoi,
-		src: "whom_to: Kagerou Imaizumi",
+		src: "Double Dealing Character",
+		whom_to: Some(Kagerou_Imaizumi),
 		..Quote::default()
 	},
 	Quote {
 		text: "I'm a wolf-woman!",
 		char: Kagerou_Imaizumi,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 	Quote {
 		text: "Well, either way. Your blood will coat my knife.",
 		char: Sakuya_Izayoi,
-		src: "whom_to: Kagerou Imaizumi",
+		src: "Double Dealing Character",
+		whom_to: Some(Kagerou_Imaizumi),
 		..Quote::default()
 	},
 	Quote {
 		text: "Eek!",
 		char: Kagerou_Imaizumi,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 	Quote {
 		text: "The drummers in the outside world have a saying. \"Awaken your caveman spirit, for it doesn't need brains to beat a drum!\"",
 		char: Raiko_Horikawa,
-		src: "whom_to: Reimu Hakurei",
+		src: "Double Dealing Character",
+		whom_to: Some(Reimu_Hakurei),
 		..Quote::default()
 	},
 	Quote {
 		text: "Huh...The outside world seems barbaric.",
 		char: Reimu_Hakurei,
-		src: "whom_to: Raiko Horikawa",
+		src: "Double Dealing Character",
+		whom_to: Some(Raiko_Horikawa),
 		..Quote::default()
 	},
 	Quote {
 		text: "I don't want to go back to a life of being hit and stepped on.",
 		char: Raiko_Horikawa,
-		src: "whom_to: Sakuya Izayoi",
+		src: "Double Dealing Character",
+		whom_to: Some(Sakuya_Izayoi),
 		..Quote::default()
 	},
 	Quote {
 		text: "You are a drum, yes? How could you not want to be hit?",
 		char: Sakuya_Izayoi,
-		src: "whom_to: Raiko Horikawa",
+		src: "Double Dealing Character",
+		whom_to: Some(Raiko_Horikawa),
 		..Quote::default()
 	},
 ];

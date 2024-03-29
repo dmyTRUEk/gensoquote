@@ -7,6 +7,7 @@ mod characters;
 mod format;
 mod quote;
 mod quotes;
+mod quotes_tests;
 mod to_str;
 
 use crate::{

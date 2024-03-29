@@ -1,6 +1,7 @@
 # generate rust quotes file
 
 from dataclasses import dataclass
+from pprint import pprint
 
 from generate_lib import *
 
@@ -77,6 +78,7 @@ class Quote:
 	whom_about: None | str
 
 	def to_lines(self) -> list[str]:
+		assert self.is_ok()
 		lines = [
 			"\tQuote {",
 			f"\t\ttext: \"{self.text}\",",
@@ -93,6 +95,15 @@ class Quote:
 			lines.append("\t\t..Quote::default()")
 		lines.append("\t},")
 		return lines
+
+	def is_ok(self) -> bool:
+		unwanted = ["text:", "char:", "src:", "whom_to", "whom_about", "\n", "\t"]
+		for field, value in vars(self).items():
+			if value is not None:
+				if any(map(lambda unwanted: unwanted in value, unwanted)):
+					pprint(self)
+					return False
+		return True
 
 
 

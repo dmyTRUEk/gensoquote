@@ -3161,89 +3161,111 @@ Double Dealing Character
 
 Actually, ya did surprise me there when your head took off.
 Marisa Kirisame
+Double Dealing Character
 whom_to: Sekibanki
 
 Do you want to see me do that again?
 Sekibanki
+Double Dealing Character
 whom_to: Marisa Kirisame
 
 Wh-What's with you? You're actually strong!
 Sekibanki
+Double Dealing Character
 whom_to: Marisa Kirisame
 
 'Course I am. If I were weak, I'd be sleepin' at home.
 Marisa Kirisame
+Double Dealing Character
 whom_to: Sekibanki
 
 A mermaid in the lake? Do you mean Wakasagihime?
 Kagerou Imaizumi
+Double Dealing Character
 whom_to: Marisa Kirisame
 
 Yeah. Do ya know each other?
 Marisa Kirisame
+Double Dealing Character
 whom_to: Kagerou Imaizumi
 
 Somewhat, thanks to the grassroots youkai network. Though I also tried to eat her once by mistake.
 Kagerou Imaizumi
+Double Dealing Character
 whom_to: Marisa Kirisame
 
 Did I even once say that I was weak? But... My expectations were off.
 Sakuya Izayoi
+Double Dealing Character
 whom_to: Sekibanki
 
 Wh-What do you mean?
 Sekibanki
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 Because I never needed to cut off your neck at all.
 Sakuya Izayoi
+Double Dealing Character
 whom_to: Sekibanki
 
 Gyah!
 Sekibanki
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 Do you think you can defeat me?
 Kagerou Imaizumi
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 Yes, I believe I can.
 Sakuya Izayoi
+Double Dealing Character
 whom_to: Kagerou Imaizumi
 
 O-Oh, a quick answer.
 Kagerou Imaizumi
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 
 Who should it be but a wolfman!
 Sakuya Izayoi
+Double Dealing Character
 whom_to: Kagerou Imaizumi
 
 I'm a wolf-woman!
 Kagerou Imaizumi
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 Well, either way. Your blood will coat my knife.
 Sakuya Izayoi
+Double Dealing Character
 whom_to: Kagerou Imaizumi
 
 Eek!
 Kagerou Imaizumi
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 The drummers in the outside world have a saying. \"Awaken your caveman spirit, for it doesn't need brains to beat a drum!\"
 Raiko Horikawa
+Double Dealing Character
 whom_to: Reimu Hakurei
 
 Huh...The outside world seems barbaric.
 Reimu Hakurei
+Double Dealing Character
 whom_to: Raiko Horikawa
 
 I don't want to go back to a life of being hit and stepped on.
 Raiko Horikawa
+Double Dealing Character
 whom_to: Sakuya Izayoi
 
 You are a drum, yes? How could you not want to be hit?
 Sakuya Izayoi
+Double Dealing Character
 whom_to: Raiko Horikawa
