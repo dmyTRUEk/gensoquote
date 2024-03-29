@@ -44,6 +44,7 @@ fn get_formatter(c: char) -> String {
 	format!("%{c}")
 }
 
+
 fn format_optional(
 	quote_formatted: &str,
 	format_char: char,

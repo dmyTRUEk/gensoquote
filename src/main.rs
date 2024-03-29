@@ -3,13 +3,10 @@
 use clap::{arg, Parser};
 use rand::{thread_rng, Rng};
 
-// mod artbooks;
 mod characters;
-// mod games;
 mod format;
 mod quote;
 mod quotes;
-// mod source;
 mod to_str;
 
 use crate::{
@@ -62,6 +59,7 @@ struct CliArgs {
 	format: String,
 }
 
+
 fn main() -> Result<(), &'static str> {
 	let cli_args = CliArgs::parse();
 	let quote = get_random_quote(cli_args.character)?;
@@ -69,6 +67,7 @@ fn main() -> Result<(), &'static str> {
 	println!("{quote_formatted}");
 	Ok(())
 }
+
 
 fn get_random_quote(char: Option<String>) -> Result<&'static Quote, &'static str> {
 	let mut rng = thread_rng();
