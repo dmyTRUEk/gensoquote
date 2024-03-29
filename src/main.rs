@@ -21,9 +21,22 @@ use crate::{
 
 
 #[derive(Parser, Debug)]
-#[command(about, version, long_about = None, author)]
+#[clap(
+	about,
+	author,
+	version,
+	help_template = "\
+		{before-help}{name} {version}\n\
+		{about}\n\
+		Author: {author}\n\
+		\n\
+		{usage-heading} {usage}\n\
+		\n\
+		{all-args}{after-help}\
+	",
+)]
 struct CliArgs {
-	/// Name of the character
+	/// Character whose random quote to select
 	#[arg(short, long)]
 	character: Option<String>,
 
