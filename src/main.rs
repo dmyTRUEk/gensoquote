@@ -36,14 +36,20 @@ fn main() -> Result<(), &'static str> {
 }
 
 fn get_random_quote(char: Option<String>) -> Result<&'static Quote, &'static str> {
-	let quotes: Vec<&Quote> = match char {
-		None => QUOTES.iter().collect(),
-		Some(char) => QUOTES.iter()
-			.filter(|quote| quote.char.to_str().to_lowercase().contains(&char.to_lowercase()))
-			.collect()
-	};
-	if quotes.len() == 0 { return Err("Character or her quote not found.") }
 	let mut rng = thread_rng();
-	let random_quote_index: usize = rng.gen_range(0..quotes.len());
-	Ok(quotes[random_quote_index])
+	match char {
+		None => {
+			let random_quote_index: usize = rng.gen_range(0..QUOTES.len());
+			Ok(&QUOTES[random_quote_index])
+		}
+		Some(char) => {
+			let char_lowercase: String = char.to_lowercase();
+			let quotes: Vec<&Quote> = QUOTES.iter()
+				.filter(|quote| quote.char.to_str().to_lowercase().contains(&char_lowercase))
+				.collect();
+			if quotes.len() == 0 { return Err("Character's quote not found.") }
+			let random_quote_index: usize = rng.gen_range(0..quotes.len());
+			Ok(quotes[random_quote_index])
+		}
+	}
 }
