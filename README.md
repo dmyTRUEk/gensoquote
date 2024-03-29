@@ -22,8 +22,9 @@ Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)), but in Gensokyo an
 ```
 
 ## Features
-- Over 600 quotes from all the Touhou Project
+- Over 600 quotes from all over the Touhou Project
 - Select your favorite character (`-c` or `--character` option)
+- Format quote to any of your tastes (`-f` or `--format` option)
 
 ## Installation
 ### From package manager
