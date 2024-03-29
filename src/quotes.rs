@@ -322,12 +322,14 @@ pub const QUOTES: &[Quote] = &[
 		text: "Chen is my shikigami. She has recovered, and grown stronger than before.",
 		char: Ran_Yakumo,
 		src: "Perfect Cherry Blossom, Extra Stage",
+		whom_to: Some(Reimu_Hakurei),
 		..Quote::default()
 	},
 	Quote {
 		text: "... She was supposed to be strong? Wait, she's your shikigami? Aren't you a shikigami yourself?",
 		char: Reimu_Hakurei,
 		src: "Perfect Cherry Blossom, Extra Stage",
+		whom_to: Some(Ran_Yakumo),
 		..Quote::default()
 	},
 	Quote {

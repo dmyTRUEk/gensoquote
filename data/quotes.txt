@@ -213,11 +213,12 @@ Perfect Cherry Blossom, Stage 6
 Chen is my shikigami. She has recovered, and grown stronger than before.
 Ran Yakumo
 Perfect Cherry Blossom, Extra Stage
+whom_to: Reimu Hakurei
 
 ... She was supposed to be strong? Wait, she's your shikigami? Aren't you a shikigami yourself?
 Reimu Hakurei
 Perfect Cherry Blossom, Extra Stage
-// TODO: whom_to: ?
+whom_to: Ran Yakumo
 
 To start with, she is a youkai that you do not want to deal with. Even besides the fundamental issue of the danger of her ability, this youkai will appear anywhere unexpectedly, her character is lacking in human sentiment, and her behavioral principles are completely different from those of humans, to name a few of her issues.
 Hieda no Akyuu
