@@ -31,9 +31,8 @@ Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)), but in Gensokyo an
 Available as [AUR package](https://aur.archlinux.org/packages/gensoquote-git/) 🎉
 
 ### From source
-#### Pre requirements: "rust" installed
-Install `rustup` (and then do `rustup toolchain install stable`) or simply `cargo`
-from your preferred package manager
+#### Pre requirements: "Rust" installed
+Install `rustup` using your preferred package manager
 or follow the [official installation tutorial](https://www.rust-lang.org/tools/install).
 
 #### Steps:
@@ -47,16 +46,12 @@ git clone https://github.com/dmyTRUEk/gensoquote
 cd gensoquote
 ```
 
-3. Run or build in "debug"(not optimized) mode (or add `-r` or `--release` flag for "release"(optimized) version):
+3. Build in release(optimized) mode:
 ```
-cargo run
-```
-or
-```
-cargo build
+cargo build --release
 ```
 
-4. Locate single final binary at `./target/<debug or release>/gensoquote`.
+4. Locate single final binary at `./target/release/gensoquote`.
 You can copy it to `~/.local/bin/` for convenient use.
 
 ## Usage
