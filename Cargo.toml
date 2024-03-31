@@ -8,7 +8,7 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/dmyTRUEk/gensoquote"
 repository = "https://github.com/dmyTRUEk/gensoquote"
-keywords = ["cli", "terminal", "touhou", "touhou-project", "fortune", "game"]
+keywords = ["cli", "touhou", "touhou-project", "fortune", "game"]
 categories = ["command-line-utilities"]
 include = [
 	"src/*.rs",
