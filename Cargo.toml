@@ -4,6 +4,12 @@ version = "0.4.1"
 edition = "2021"
 authors = ["dmyTRUEk"]
 description = "Like fortune, but in Gensokyo and memory safe."
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/dmyTRUEk/gensoquote"
+repository = "https://github.com/dmyTRUEk/gensoquote"
+keywords = ["cli", "terminal", "touhou", "touhou-project", "fortune", "game"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
