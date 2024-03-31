@@ -27,6 +27,11 @@ Like [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)), but in Gensokyo an
 - Format quote to any of your tastes (`-f` or `--format` option)
 
 ## Installation
+### Using `cargo`
+```
+cargo install gensoquote
+```
+
 ### From package manager
 #### Arch Linux
 Available as [AUR package](https://aur.archlinux.org/packages/gensoquote-git/) 🎉
