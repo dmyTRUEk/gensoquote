@@ -476,15 +476,17 @@ mod tests {
 			}
 		}
 
-		#[ignore]
-		#[test]
-		fn escaped_bracket_left() {
-			todo!()
-		}
-		#[ignore]
-		#[test]
-		fn escaped_bracket_right() {
-			todo!()
+		mod escaped_bracket {
+			#[ignore]
+			#[test]
+			fn escaped_bracket_left() {
+				todo!()
+			}
+			#[ignore]
+			#[test]
+			fn escaped_bracket_right() {
+				todo!()
+			}
 		}
 	}
 }
