@@ -35,7 +35,7 @@ use crate::{
 )]
 struct CliArgs {
 	/// Character whose random quote to select
-	#[arg(short, long)]
+	#[arg(short='c', long)]
 	character: Option<String>,
 
 	/// Format string
@@ -56,7 +56,7 @@ struct CliArgs {
 	/// `"My hat is my friend." -- Koishi Komeiji, KKHTA`
 	/// if %t is not none:
 	/// `"My hat is my friend." -- Koishi Komeiji says to Koishi Komeiji, KKHTA`
-	#[arg(short, long, verbatim_doc_comment, default_value_t={FORMATTING_DEFAULT.to_string()})]
+	#[arg(short='f', long, verbatim_doc_comment, default_value_t={FORMATTING_DEFAULT.to_string()})]
 	format: String,
 }
 
